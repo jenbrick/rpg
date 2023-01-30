@@ -1,13 +1,18 @@
 <h1>RPG - The Adventure Begins  </h1>
 <div class="row">
+  <div class="col-sm-1">
+  <a href="#" class="btn btn-primary" (click)="clickEvent()">Generate Party</a>
+  </div>
+  </div>
+<div class="row">
   <div class="col-md-3"
       *ngFor="let charac of party">
-    <div class="card" style="width:400px">
+    <div class="card">
       <img class="card-img-top" src="{{ charac.picture }}" alt="Card image">
       <div class="card-body">
         <h4 class="card-title">{{ charac.name }}</h4>
-        <p class="card-text">something...</p>
-        <a href="#" class="btn btn-primary" (click)="clickEvent()">See Profile</a>
+        <p class="card-text">{{ charac.sources }}</p>
+        <a href="#" class="btn btn-primary" (click)="clickEvent()">Swap</a>
       </div>
     </div>
   </div>

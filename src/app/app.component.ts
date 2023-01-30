@@ -1,3 +1,4 @@
+//ng build --output-path docs --base-href /rpg/
 import { Component } from '@angular/core';
 import data from '../assets/json/characters.json';
 

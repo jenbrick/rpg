@@ -11,7 +11,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": "https://static.wikia.nocookie.net/broad-city/images/1/10/Abbi-abrams.jpg/revision/latest?cb=20160211162847"
+      "picture": "https://static.wikia.nocookie.net/broad-city/images/1/10/Abbi-abrams.jpg"
     },
     {
       "name": "Abraham Ford",
@@ -53,7 +53,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/totalwar/images/4/4f/TROY_achilles_poster.jpg"
     },
     {
       "name": "Aeryn Sun",
@@ -81,7 +81,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": "https://static.wikia.nocookie.net/men-in-black/images/f/f8/Agent_J.jpg/revision/latest?cb=20110503130406"
+      "picture": "https://static.wikia.nocookie.net/men-in-black/images/f/f8/Agent_J.jpg"
     },
     {
       "name": "Agent K",
@@ -95,7 +95,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": "https://images.squarespace-cdn.com/content/v1/5483f2a1e4b069cf1af24d9f/1419187987100-3C5AFNMY419RC4936SK7/MB1_3171.jpg?format=750w"
+      "picture": "https://images.squarespace-cdn.com/content/v1/5483f2a1e4b069cf1af24d9f/1419187987100-3C5AFNMY419RC4936SK7/MB1_3171.jpg"
     },
     {
       "name": "Agent Smith",
@@ -124,20 +124,6 @@
       "setting": "Dungeons & Dragons - Darksun",
       "notes": "",
       "picture": "https://db4sgowjqfwig.cloudfront.net/images/1992122/Agis.jpg"
-    },
-    {
-      "name": "Akimi",
-      "type": "",
-      "gender": "",
-      "race": "",
-      "role": "",
-      "specialPowers": "",
-      "genres": "",
-      "sources": "Shadowrun",
-      "media": "",
-      "setting": "",
-      "notes": "",
-      "picture": "https://static.wikia.nocookie.net/shadowrun/images/9/90/Akmi_snes_reboot.jpg/revision/latest/smart/width/250/height/250?cb=20180326023410&path-prefix=en"
     },
     {
       "name": "Al Swearengen",
@@ -179,7 +165,7 @@
       "media": "",
       "setting": "Harry Potter",
       "notes": "",
-      "picture": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest?cb=20150822232849"
+      "picture": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg"
     },
     {
       "name": "Alex DeLarge",
@@ -193,7 +179,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": "https://static.wikia.nocookie.net/villains/images/c/c7/ALEX.jpg/revision/latest?cb=20201101132028"
+      "picture": "https://static.wikia.nocookie.net/villains/images/c/c7/ALEX.jpg"
     },
     {
       "name": "Alex Kamal",
@@ -249,7 +235,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/Alias_-_Clyde_Caldwell.jpg/revision/latest?cb=20160323141144"
+      "picture": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/Alias_-_Clyde_Caldwell.jpg"
     },
     {
       "name": "Alice",
@@ -263,7 +249,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Dragonbait_2e.jpg/revision/latest?cb=20200728142404"
+      "picture": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Dragonbait_2e.jpg"
     },
     {
       "name": "Allan Quatermain",
@@ -7224,7 +7210,7 @@
       "picture": ""
     },
     {
-      "name": "Legertha",
+      "name": "Lagertha",
       "type": "",
       "gender": "",
       "race": "",
@@ -7235,7 +7221,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F01%2Fv6_06_11232017_jh_08328-2000.jpg"
     },
     {
       "name": "Legolas",
