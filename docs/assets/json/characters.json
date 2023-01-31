@@ -238,14 +238,14 @@
       "picture": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/Alias_-_Clyde_Caldwell.jpg"
     },
     {
-      "name": "Alice",
+      "name": "Dragonbait",
       "type": "",
       "gender": "",
       "race": "",
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "Alice in Wonderland",
+      "sources": "Forgotten Realms",
       "media": "",
       "setting": "",
       "notes": "",
@@ -2485,11 +2485,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Looney Tunes",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png"
     },
     {
       "name": "Daisy Johnson (Quake)",
@@ -2503,7 +2503,7 @@
       "media": "",
       "setting": "Marvel",
       "notes": "",
-      "picture": ""
+      "picture": "https://i0.wp.com/geeksofcolor.co/wp-content/uploads/2016/12/agents-of-s-h-i-e-l-d-daisy-johnson-director.jpg"
     },
     {
       "name": "Dana Scully",
@@ -2517,21 +2517,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
-    },
-    {
-      "name": "Dances with Clams",
-      "type": "",
-      "gender": "",
-      "race": "",
-      "role": "",
-      "specialPowers": "",
-      "genres": "",
-      "sources": "Shadowrun",
-      "media": "",
-      "setting": "",
-      "notes": "",
-      "picture": ""
+      "picture": "https://i.pinimg.com/originals/42/5f/71/425f7109c8c986b7596e60b16d594a2c.jpg"
     },
     {
       "name": "Daniel Larusso",
@@ -2545,7 +2531,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://i.redd.it/y0zm3iw6md991.jpg"
     },
     {
       "name": "Daniel Plainview",
@@ -2559,7 +2545,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/villains/images/a/a0/Mr._Daniel_Plainview.jpg"
     },
     {
       "name": "Danny Zuko",
@@ -2569,11 +2555,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Grease",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "http://images4.fanpop.com/image/photos/20400000/John-Travolta-as-Danny-Zuko-grease-the-movie-20408950-500-753.jpg"
     },
     {
       "name": "Dark Helmet",
@@ -2583,11 +2569,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Spaceballs",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://hips.hearstapps.com/popularmechanics/assets/17/23/1497019504-dark-helmet-unmasked.jpg"
     },
     {
       "name": "Darth Maul",
@@ -2601,7 +2587,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/starwars/images/8/89/MaulHS_SWI185.png"
     },
     {
       "name": "Darth Vader (Annakin Skywalker)",
@@ -2615,7 +2601,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://images.immediate.co.uk/production/volatile/sites/3/2020/12/Darth-Vader-David-Prowse-cab4049.jpg"
     },
     {
       "name": "Daryl Dixon",
@@ -2629,7 +2615,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://sportshub.cbsistatic.com/i/2022/08/07/4b7a186f-4518-43f7-9e0c-5182099a33fa/the-walking-dead-daryl-dixon-norman-reedus.jpg"
     },
     {
       "name": "Data",
@@ -2643,7 +2629,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://images.immediate.co.uk/production/volatile/sites/3/2020/01/GettyImages-459889288-7ab51a4-scaled.jpg"
     },
     {
       "name": "David",
@@ -2657,7 +2643,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/5/50/David%2C_vampire.jpg"
     },
     {
       "name": "Davy Jones",
@@ -2671,7 +2657,7 @@
       "media": "",
       "setting": "Pirates of the Caribbean",
       "notes": "",
-      "picture": ""
+      "picture": "https://i.pinimg.com/564x/bb/87/5d/bb875d6ead603699e68aa283899a5d11.jpg"
     },
     {
       "name": "Deadpool",
@@ -2685,7 +2671,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/deadpool-promo-Cropped.jpg"
     },
     {
       "name": "Deandra \"Sweet Dee\" Reynolds",
@@ -2699,7 +2685,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/itsalwayssunny/images/3/32/Sweetdee.jpg"
     },
     {
       "name": "Deanna Troi",
@@ -2713,21 +2699,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
-    },
-    {
-      "name": "Death",
-      "type": "",
-      "gender": "",
-      "race": "",
-      "role": "",
-      "specialPowers": "",
-      "genres": "",
-      "sources": "",
-      "media": "",
-      "setting": "",
-      "notes": "",
-      "picture": ""
+      "picture": "https://www.startrek.com/sites/default/files/styles/content_full/public/images/2020-11/trois5.jpg"
     },
     {
       "name": "Debra Morgan",
@@ -2741,7 +2713,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/dexter/images/8/85/Debra_Morgan_Promo_444.jpg"
     },
     {
       "name": "Del Griffith",
@@ -2751,11 +2723,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Planes, Trains, and Automobiles",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://timwhitecoaching.com/wp-content/uploads/2018/12/Del_Griffith.jpg"
     },
     {
       "name": "Delores Abernathy",
@@ -2769,7 +2741,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/6/64/DoloresAbernathy.png"
     },
     {
       "name": "Deloris Van Cartier",
@@ -2783,7 +2755,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://pbs.twimg.com/media/EXhbCnWWsAEBhBz.jpg"
     },
     {
       "name": "Dennis Reynolds",
@@ -2797,7 +2769,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/itsalwayssunny/images/f/f3/BBB0E7AE-CC06-4348-9665-53083C2DF721.jpeg"
     },
     {
       "name": "Dennis the Menace",
@@ -2811,7 +2783,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://plagiarismtoday.com/wp-content/uploads/2010/10/dennis-us-sample.jpg"
     },
     {
       "name": "Derek Zoolander",
@@ -2825,7 +2797,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/zoolander/images/f/f1/Derek-Zoolander-in-a-turban.jpg"
     },
     {
       "name": "Det. Alonzo Harris",
@@ -2839,7 +2811,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/villains/images/d/d2/Alonzo_Harris.jpg"
     },
     {
       "name": "Dewey Finn",
@@ -2853,7 +2825,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/schoolofrock/images/4/4f/Dewey-finn.jpg"
     },
     {
       "name": "Dexter Morgan",
@@ -2867,7 +2839,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/dexter/images/d/d6/Dexter_NB_Promo_5.jpg"
     },
     {
       "name": "Doc Brown",
@@ -2881,7 +2853,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/bttf/images/9/96/Doc_Emmett_Brown.jpg"
     },
     {
       "name": "Doc Holliday",
@@ -2895,7 +2867,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://images.fineartamerica.com/images/artworkimages/medium/1/val-kilmer-as-doc-holliday-tombstone-set-1993-2015-david-lee-guss.jpg"
     },
     {
       "name": "Doctor Stephen Strange",
@@ -2909,10 +2881,10 @@
       "media": "",
       "setting": "Marvel",
       "notes": "",
-      "picture": ""
+      "picture": "https://media.gq-magazine.co.uk/photos/620a6a32610ac8bff62bef0f/1:1/w_809,h_809,c_limit/140222_DrS_02.jpg"
     },
     {
-      "name": "Doctor Who",
+      "name": "Doctor Who - 1st Incarnation",
       "type": "",
       "gender": "",
       "race": "",
@@ -2923,8 +2895,23 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/7/70/First_Doctor_%28Doctor_Who%29.jpg"
     },
+    {
+      "name": "Doc",
+      "type": "",
+      "gender": "",
+      "race": "",
+      "role": "",
+      "specialPowers": "",
+      "genres": "",
+      "sources": "Snow White and the Seven Dwarves",
+      "media": "",
+      "setting": "",
+      "notes": "",
+      "picture": "https://featuredanimation.com/wp-content/uploads/2022/05/Doc-Dwarf-clip-art-drawing.jpg"
+    },
+   
     {
       "name": "Don Draper",
       "type": "",
@@ -2937,7 +2924,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://api.time.com/wp-content/uploads/2014/04/mad-men-season-7-premier-don-draper-jon-hamm.jpg"
     },
     {
       "name": "Don Quixote",
@@ -2951,7 +2938,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://media1.sacurrent.com/sacurrent/imager/u/original/20836740/the_man_who_killed_don_quixote_2_-_photo_by_screen_media_films.jpg"
     },
     {
       "name": "Donatello",
@@ -2965,7 +2952,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/tmnt2012series/images/d/d6/Donnyboy.png"
     },
     {
       "name": "Donkey",
@@ -2979,7 +2966,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/shrek/images/d/dc/DonkeyTransparent.png"
     },
     {
       "name": "Donkey Kong",
@@ -2993,7 +2980,7 @@
       "media": "Video Game",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png"
     },
     {
       "name": "Donnie Darko",
@@ -3007,7 +2994,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.kino.de/wp-content/uploads/2001/02/donnie-darko-Supershot-rcm480x270u.jpg"
     },
     {
       "name": "Dopey",
@@ -3021,7 +3008,21 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://images.fineartamerica.com/images/artworkimages/medium/3/disney-snow-white-dopey-hashtag-portrait-sean-fajar-transparent.png"
+    },
+    {
+      "name": "Bashful",
+      "type": "",
+      "gender": "",
+      "race": "",
+      "role": "",
+      "specialPowers": "",
+      "genres": "",
+      "sources": "Snow White and the Seven Dwarves",
+      "media": "",
+      "setting": "",
+      "notes": "",
+      "picture": "https://static.wikia.nocookie.net/thedescendants/images/8/8b/Img-thing.jpg"
     },
     {
       "name": "Dora the Explorer",
@@ -3035,7 +3036,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/muc/images/f/f6/Dora_the_Explorer.png"
     },
     {
       "name": "Doralee Rhodes",
@@ -3049,7 +3050,7 @@
       "media": "Film",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://1.bp.blogspot.com/-0eK280dp4vU/YANcZIfJ51I/AAAAAAAAP6o/nqrOfh8chncTr4AybUqT5Lk2W8MKts5FgCLcBGAsYHQ/s475/281737__77122.1342528208.380.500.jpg"
     },
     {
       "name": "Dorian Gray",
@@ -3063,7 +3064,7 @@
       "media": "Film",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://i.pinimg.com/736x/9d/f6/1b/9df61ba8185f9198c5e97a2cd6b06007--barnes-and-character-inspiration.jpg"
     },
     {
       "name": "Dorothy Gale",
@@ -3077,7 +3078,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://banksyexplained.com/wp-content/uploads/2021/04/WIZARD-OF-OZ.jpg"
     },
     {
       "name": "Dorothy Sbornak",
@@ -3091,7 +3092,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://i.ytimg.com/vi/7b-Q2FbQkp8/hqdefault.jpg"
     },
     {
       "name": "Dory",
@@ -3105,7 +3106,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/pixar/images/1/1f/Dory-white.jpg"
     },
     {
       "name": "Dot Matrix",
@@ -3119,7 +3120,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://i.pinimg.com/originals/f9/c2/53/f9c253eed1d8a9ec17494e8e1b8eca70.jpg"
     },
     {
       "name": "Dr. Alan Grant",
@@ -3133,7 +3134,7 @@
       "media": "",
       "setting": "Jurassic Park",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/1/18/Alan_Grant_%28Sam_Neill%29.jpg"
     },
     {
       "name": "Dr. Doom",
@@ -3147,7 +3148,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/doctor-doom-featured.jpg"
     },
     {
       "name": "Dr. Eleanor Ann \"Ellie\" Arroway",
@@ -3161,7 +3162,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTk2ODg0OTQwM15BMl5BanBnXkFtZTgwMjY2OTIwMjE@._V1_.jpg"
     },
     {
       "name": "Dr. Ellie Sattler",
@@ -3175,7 +3176,7 @@
       "media": "",
       "setting": "Jurassic Park",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Ellie_Sattler_%28Laura_Dern%29.jpg/220px-Ellie_Sattler_%28Laura_Dern%29.jpg"
     },
     {
       "name": "Dr. Evil",
@@ -3189,7 +3190,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://www.filmstories.co.uk/wp-content/uploads/2022/08/dr-evil.jpeg"
     },
     {
       "name": "Dr. Frederick Frankenstein",
@@ -3203,7 +3204,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/headhuntersholosuite/images/5/51/Frederick_Frankenstein.jpg"
     },
     {
       "name": "Dr. Gregory House",
@@ -3217,7 +3218,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/0/0b/HouseGregoryHouse.png"
     },
     {
       "name": "Dr. Henry Jekyll",
@@ -3231,7 +3232,7 @@
       "media": "Film",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://www.themarysue.com/wp-content/uploads/2015/05/LeagueHyde.gif"
     },
     {
       "name": "Dr. Ian Malcolm",
@@ -3245,7 +3246,7 @@
       "media": "",
       "setting": "Jurassic Park",
       "notes": "",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/en/6/60/Ian_Malcolm_%28Jeff_Goldblum%29.jpg"
     },
     {
       "name": "Dr. Sam Beckett",
@@ -3259,7 +3260,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/therepliversesaga/images/7/75/SamBeckett.jpg"
     },
     {
       "name": "Dr. Stanley Goodspeed",
@@ -3269,11 +3270,24 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "The Rock",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://pbs.twimg.com/profile_images/1675945640/goodspeed_400x400.jpg"
+    },  {
+      "name": "Captain John Patrick Mason",
+      "type": "",
+      "gender": "",
+      "race": "",
+      "role": "",
+      "specialPowers": "",
+      "genres": "",
+      "sources": "The Rock",
+      "media": "",
+      "setting": "",
+      "notes": "",
+      "picture": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/29/1469116863-therock-424pyxurz.jpg"
     },
     {
       "name": "Dr. Strangelove",
@@ -3283,11 +3297,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Dr. Strangelove",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/great-movie-dr-strangelove-1964/EB19990711REVIEWS08907110301AR.jpg"
     },
     {
       "name": "Dracula",
@@ -3297,25 +3311,25 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Bram Stoker's Dracula",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://www.denofgeek.com/wp-content/uploads/2022/10/Gary-Oldman-as-Dracula-in-Bram-Stokers-Dracula.jpeg"
     },
     {
-      "name": "Dragonbait",
+      "name": "Alice",
       "type": "",
       "gender": "",
       "race": "",
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "Forgotten Realms",
+      "sources": "Alice in Wonderland",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/disney/images/7/75/Profile_-_Alice.jpeg"
     },
     {
       "name": "Drax",
@@ -3329,7 +3343,7 @@
       "media": "",
       "setting": "Marvel",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/guardianofthegalaxy/images/7/76/DraxGuardiansGalaxy.png"
     },
     {
       "name": "Dream of the Endless",
@@ -3343,7 +3357,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://d.newsweek.com/en/full/2088866/sandman.jpg"
     },
     {
       "name": "Drizzt Do'Urden",
@@ -3357,7 +3371,7 @@
       "media": "",
       "setting": "Dungeons & Dragons",
       "notes": "",
-      "picture": ""
+      "picture": "https://images.ctfassets.net/swt2dsco9mfe/585LvfI4uofEljGNatGBPb/57cd26cbc8c5e891e5ae241fd530d814/Drizzt-character-slide-v2.jpg"
     },
     {
       "name": "Dug",
@@ -3371,7 +3385,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/pixar/images/3/35/Dug-up.jpg"
     },
     {
       "name": "Dumbo",
@@ -3381,11 +3395,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Dumbo",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://d23.com/app/uploads/2013/04/1180w-600h_a-to-z-dumbo.jpg"
     },
     {
       "name": "Dupre",
@@ -3399,7 +3413,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://wiki.ultimacodex.com/images/1/1f/Dupre-U6Project.png"
     },
     {
       "name": "Durance",
@@ -3413,7 +3427,7 @@
       "media": "Video Game",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/eternitywiki/images/c/cb/Durance-portrait.jpg"
     },
     {
       "name": "Dustin Henderson",
@@ -3427,7 +3441,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://i.pinimg.com/originals/82/01/1c/82011cc71a146ad494be1eeb1bb43675.jpg"
     },
     {
       "name": "E.T.",
@@ -3441,7 +3455,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_1200,w_1800,x_100,y_0/c_fill,f_auto,h_1200,q_auto,w_1600/v1/m/a/c/acd9c520c19769ec1459e9ed234261b0b7fdc578/20-facts-might-know-et-extraterrestrial.jpg"
     },
     {
       "name": "Easter Bunny",
@@ -4925,7 +4939,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/thedescendants/images/3/33/Grumpy-snow-white-and-the-seven-dwarfs-6497343-429-411.jpg"
     },
     {
       "name": "Gumby",
@@ -5117,11 +5131,11 @@
       "role": "",
       "specialPowers": "",
       "genres": "",
-      "sources": "",
+      "sources": "Snow White and the Seven Dwarves",
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/thedescendants/images/e/ef/683-Happy.jpg"
     },
     {
       "name": "Harley Quinn",
@@ -7249,7 +7263,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/tmnt2012series/images/1/15/Leo_tortuga.png"
     },
     {
       "name": "Leslie Knope",
@@ -7910,6 +7924,33 @@
       "picture": ""
     },
     {
+      "name": "Sneezy",
+      "type": "",
+      "gender": "",
+      "race": "",
+      "role": "",
+      "specialPowers": "",
+      "genres": "",
+      "sources": "Maleficent",
+      "media": "",
+      "setting": "Disney",
+      "notes": "",
+      "picture": "https://static.wikia.nocookie.net/thedescendants/images/f/f9/Sneezy_transparent.png"
+    },  {
+      "name": "Sleepy",
+      "type": "",
+      "gender": "",
+      "race": "",
+      "role": "",
+      "specialPowers": "",
+      "genres": "",
+      "sources": "Snow White and the Seven Dwarves",
+      "media": "",
+      "setting": "Disney",
+      "notes": "",
+      "picture": "https://static.wikia.nocookie.net/thedescendants/images/5/59/S-l1000a.jpg"
+    },
+    {
       "name": "Mama Fratelli",
       "type": "",
       "gender": "f",
@@ -8453,7 +8494,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/tmnt2012series/images/8/88/2012_Michelangelo_clean_character_image.png"
     },
     {
       "name": "Michonne",
@@ -10413,7 +10454,7 @@
       "media": "",
       "setting": "",
       "notes": "",
-      "picture": ""
+      "picture": "https://static.wikia.nocookie.net/tmnt2012series/images/6/63/Raph-rage.png"
     },
     {
       "name": "Rapunzel",
@@ -11714,20 +11755,6 @@
       "sources": "The Dark Crystal",
       "media": "",
       "setting": "The Dark Crystal",
-      "notes": "",
-      "picture": ""
-    },
-    {
-      "name": "Sleepy",
-      "type": "",
-      "gender": "",
-      "race": "",
-      "role": "",
-      "specialPowers": "",
-      "genres": "",
-      "sources": "",
-      "media": "",
-      "setting": "",
       "notes": "",
       "picture": ""
     },

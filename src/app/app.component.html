@@ -1,18 +1,24 @@
-<h1>RPG - The Adventure Begins  </h1>
-<div class="row">
-  <div class="col-sm-1">
-  <a href="#" class="btn btn-primary" (click)="clickEvent()">Generate Party</a>
+<div class="d-flex flex-column justify-content-center align-items-center">
+  <h1>Absurdly Random Party Generator</h1>
+  <label class="form-label" for="customRange1">Party Size: <output id="ageOutputId">4</output></label>
+  <div class="range w-25">
+    <input type="range" class="form-range" id="ageInputId" value="4" min="1" max="7" [(ngModel)]="sliderValue" #slider="ngModel" oninput="ageOutputId.value = ageInputId.value" >
   </div>
-  </div>
+ 
+    <a href="#" class="btn btn-primary" (click)="generateParty()">Generate Party</a>
+    <output [(ngModel)]="sliderValue" value={{errMessage}}></output>
+</div>
+
 <div class="row">
   <div class="col-md-3"
       *ngFor="let charac of party">
     <div class="card">
       <img class="card-img-top" src="{{ charac.picture }}" alt="Card image">
+     <!-- <img class="card-img-top active" src="https://media.tenor.com/25miffLQ-j8AAAAd/jurassic-park-ian-malcolm.gif"> -->
       <div class="card-body">
         <h4 class="card-title">{{ charac.name }}</h4>
         <p class="card-text">{{ charac.sources }}</p>
-        <a href="#" class="btn btn-primary" (click)="clickEvent()">Swap</a>
+        <a href="#" class="btn btn-primary" (click)="swapCharacter(charac.name)">Swap</a>
       </div>
     </div>
   </div>

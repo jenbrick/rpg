@@ -27,19 +27,40 @@ export class AppComponent {
 
   title = 'rpg';
   origPersons: Person[] = data;
-  msg : String = "Not clicked"; 
+  errMessage : String = "";
 
   party: Person[] = this.origPersons;
- 
+  sliderValue = 4;
+  storedValues: number[] = [];
+  partySizeLimit = this.origPersons.length;
    
-  clickEvent() {
+  generateParty() {
     this.party = [];
-    this.msg = "Button is Clicked";
-    this.party[0] = this.origPersons[Math.floor(Math.random() * 1000) + 1];
-    this.party[1] = this.origPersons[Math.floor(Math.random() * 1000) + 1];
-    this.party[2] = this.origPersons[Math.floor(Math.random() * 1000) + 1];
-    this.party[3] = this.origPersons[Math.floor(Math.random() * 1000) + 1];
-    this.party[4] = this.origPersons[Math.floor(Math.random() * 1000) + 1];
-    return this.msg;
+    this.storedValues = [];
+    for (var i=0; i<this.sliderValue; i++) {
+      this.assignCharacterToParty(i);
+    }
+    return this.errMessage;
   }
+
+  assignCharacterToParty(idx: number) {
+    var randNum = Math.floor(Math.random() * this.partySizeLimit-1) + 1;
+    console.log(this.storedValues.length);
+      if (this.storedValues.indexOf(randNum) === -1) {
+        this.party[idx] = this.origPersons[randNum];
+        this.storedValues.push(randNum);
+      } else {
+          this.assignCharacterToParty(idx);
+      }
+  }
+
+  swapCharacter(name: String) {
+    if (this.storedValues.length === this.partySizeLimit) {
+      this.errMessage = 'Character swap limit has been met';  
+    } else {
+      var idx = this.party.findIndex(party => party.name === name);
+      this.assignCharacterToParty(idx);
+    }
+  }
+
  }
