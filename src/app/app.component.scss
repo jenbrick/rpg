@@ -1,0 +1,87 @@
+.card {
+    margin-top: 15px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: contain;
+}
+
+.staticImg {
+    position:absolute;
+    background: white;
+    
+  }
+  
+  .staticImg:hover {
+    opacity:0;
+  }
+
+   .cardswp {
+    opacity: 0;
+    animation: fade-in  800ms ease forwards;
+  }
+
+  .cardcon {
+    opacity: 0;
+    animation: fade-in  500ms ease forwards;
+  }
+  
+  .cardcon:nth-child(2) {
+    animation-delay: 500ms;
+  }
+  
+  .cardcon:nth-child(3) {
+    animation-delay: 1000ms;
+  }
+  
+  .cardcon:nth-child(4) {
+    animation-delay: 1500ms;
+  }
+
+  .cardcon:nth-child(5) {
+    animation-delay: 2000ms;
+  }
+
+  .cardcon:nth-child(6) {
+    animation-delay: 2500ms;
+  }
+  
+  @keyframes fade-in {
+    to {
+      opacity: 1;
+    } 
+  } 
+
+  .item {
+    width: 300px;
+    height: 150px;
+    background: red;
+    border-bottom: solid 1px black;
+    opacity: 0;
+    
+    &.i01 {
+      animation: fade-in-item 1s .2s ease-out forwards;
+    }
+    &.i02 {
+      animation: fade-in-item 1s .6s ease-out forwards;
+    }
+    
+    &.i03 {
+      animation: fade-in-item 1s 1s ease-out forwards;
+    }
+    
+    &.i04 {
+      animation: fade-in-item 1s 1.4s ease-out forwards;
+    }
+  }
+  
+  
+  
+  @-webkit-keyframes fade-in-item {
+    0%   { display: block; opacity: 0;  }
+    30% { display: block; opacity: .5; }
+    60% { display: block; opacity: .8; }
+    100% { display: block; opacity: 1; } 
+  }
