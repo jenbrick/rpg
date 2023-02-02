@@ -49,6 +49,9 @@ export class AppComponent {
   showMyClass = true;
 
   displayStatic = false;
+
+  timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
+
    
   generateParty() {
     this.party = [];
@@ -114,10 +117,12 @@ export class AppComponent {
    // console.log("ngAfterViewInit");
   }
 
+ 
   ngAfterViewChecked() {
     //console.log("ngAfterViewChecked");
+    clearTimeout(this.timer);
     if (this.displayStatic === false) {
-      setTimeout(() => this.resolve(), 5000);
+      this.timer = setTimeout(() => this.resolve(), 5000);
     }
   }
 
