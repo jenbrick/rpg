@@ -1,6 +1,6 @@
 <div class="d-flex flex-column justify-content-center align-items-center">
   <h1>Slapdash</h1>
-  <h4>(A random party generator)</h4>
+  <h4>(A Random Party Generator)</h4>
   <label class="form-label" for="customRange1">Party Size: <output id="ageOutputId">4</output></label>
   <div class="range w-25">
     <input type="range" class="form-range" id="ageInputId" value="4" min="1" max="7" [(ngModel)]="sliderValue" #slider="ngModel" oninput="ageOutputId.value = ageInputId.value" >
