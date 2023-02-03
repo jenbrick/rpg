@@ -54,34 +54,3 @@
     } 
   } 
 
-  .item {
-    width: 300px;
-    height: 150px;
-    background: red;
-    border-bottom: solid 1px black;
-    opacity: 0;
-    
-    &.i01 {
-      animation: fade-in-item 1s .2s ease-out forwards;
-    }
-    &.i02 {
-      animation: fade-in-item 1s .6s ease-out forwards;
-    }
-    
-    &.i03 {
-      animation: fade-in-item 1s 1s ease-out forwards;
-    }
-    
-    &.i04 {
-      animation: fade-in-item 1s 1.4s ease-out forwards;
-    }
-  }
-  
-  
-  
-  @-webkit-keyframes fade-in-item {
-    0%   { display: block; opacity: 0;  }
-    30% { display: block; opacity: .5; }
-    60% { display: block; opacity: .8; }
-    100% { display: block; opacity: 1; } 
-  }

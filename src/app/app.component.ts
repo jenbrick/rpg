@@ -41,14 +41,14 @@ export class AppComponent {
   origPersons: Person[] = data;
   errMessage : String = "";
 
-  party: Person[] = this.origPersons;
+  party: Person[] = [];//this.origPersons;
   sliderValue = 4;
   storedValues: number[] = [];
   partySizeLimit = this.origPersons.length;
 
   showMyClass = true;
 
-  displayStatic = false;
+  displayStatic = true;
 
   timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
 
@@ -58,10 +58,20 @@ export class AppComponent {
     this.storedValues = [];
     this.showMyClass = true;
     this.displayStatic = false;
+    this.startAnimationsWithTimer();
     for (var i=0; i<this.sliderValue; i++) {
       this.assignCharacterToParty(i);
     }
     return this.errMessage;
+  }
+
+  startPicAnimations() {
+    this.displayStatic = false;
+  }
+  startAnimationsWithTimer() {
+    clearTimeout(this.timer);
+    this.displayStatic = false;
+    this.timer = setTimeout(() => this.stopPicAnimations(), 5000);
   }
 
   assignCharacterToParty(idx: number) {
@@ -85,11 +95,9 @@ export class AppComponent {
     }
   }
   
-  //ngAfterViewChecked()  {
-   // 
-  //}
   
-  resolve() {
+  
+  stopPicAnimations() {
     this.displayStatic = true;
   }
   
@@ -120,10 +128,7 @@ export class AppComponent {
  
   ngAfterViewChecked() {
     //console.log("ngAfterViewChecked");
-    clearTimeout(this.timer);
-    if (this.displayStatic === false) {
-      this.timer = setTimeout(() => this.resolve(), 5000);
-    }
+    
   }
 
   ngOnDestroy() {
