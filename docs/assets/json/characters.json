@@ -562,7 +562,7 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "The Little Mermaid (1989)",
+    "sources": "The Little Mermaid (Movie 1989)",
     "media": "",
     "setting": "Disney",
     "notes": "",
@@ -1002,7 +1002,7 @@
     "setting": "The Belgariad",
     "notes": "",
     "picture": "https://i.imgur.com/pl4xYp5.jpg",
-    "dynpic": ""
+    "dynpic": "https://i.imgur.com/pl4xYp5.jpg"
   },
   {
     "name": "Belle",
@@ -1017,7 +1017,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/disney/images/1/1b/Profile_-_Belle.jpeg",
-    "dynpic": ""
+    "dynpic": "https://i.gifer.com/origin/3e/3ef88ab27db92f1c3e407fcabd242707.gif"
   },
   {
     "name": "Ben Solo / Kylo Ren",
@@ -1346,8 +1346,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "https://www.biography.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTE4MDAzNDEwMTgxNjU0MDMw/image-title2.jpg",
-    "dynpic": "https://www.biography.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTE4MDAzNDEwMTgxNjU0MDMw/image-title2.jpg"
+    "picture": "https://i.pinimg.com/originals/25/49/41/2549414491ee453345249284b0f017aa.jpg",
+    "dynpic": "https://i.gifer.com/embedded/download/EAED.gif"
   },
   {
     "name": "Borat",
@@ -2202,7 +2202,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/projectxzone/images/2/23/Chun_Li.png",
-    "dynpic": ""
+    "dynpic": "https://media.tenor.com/hjQV298MBgIAAAAM/street-fighter-chunli.gif"
   },
   {
     "name": "Cinderella",
@@ -2212,12 +2212,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "Cinderella",
     "media": "",
-    "setting": "",
+    "setting": "Disney",
     "notes": "",
     "picture": "https://upload.wikimedia.org/wikipedia/en/f/f1/Cinderella_%28Disney_character%29.png",
-    "dynpic": ""
+    "dynpic": "https://assets.vogue.com/photos/5891ad7bce34fb453af7c721/16:9/w_1280,c_limit/cinderella-gifs-steven-dam-06.gif"
   },
   {
     "name": "Ciri",
@@ -2229,7 +2229,7 @@
     "genres": "",
     "sources": "The Witcher",
     "media": "",
-    "setting": "",
+    "setting": "The Witcher",
     "notes": "",
     "picture": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/10/Witcher-Ciri-5.jpg",
     "dynpic": "https://i.pinimg.com/originals/c5/c4/7b/c5c47b40df60ca7a8ae728dfad32f1ac.gif"
@@ -2244,10 +2244,10 @@
     "genres": "",
     "sources": "Outlander",
     "media": "",
-    "setting": "",
+    "setting": "Outlander",
     "notes": "",
     "picture": "https://upload.wikimedia.org/wikipedia/en/1/14/Claire_Fraser_%28Outlander_TV%29.jpg",
-    "dynpic": ""
+    "dynpic": "https://64.media.tumblr.com/cad29056a5e0bce8043c3c46ac6df146/49103a24fc1af607-95/s540x810/4c298443fe315f7ba001f05e22405ff01fa88d3b.gif"
   },
   {
     "name": "Clarice Starling",
@@ -2337,7 +2337,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://pyxis.nymag.com/v1/imgs/6a9/2a3/6c37ee37a2473f12b6dc4a703a50381993-09-clifford.jpg",
-    "dynpic": ""
+    "dynpic": "https://64.media.tumblr.com/00252118fbe049a9a93185ba8b9e3019/tumblr_oy7qlzjYh91w3qc55o4_r1_400.gif"
   },
   {
     "name": "Cloud Strife",
@@ -2349,7 +2349,7 @@
     "genres": "",
     "sources": "Final Fantasy VII",
     "media": "",
-    "setting": "",
+    "setting": "Final Fantasy",
     "notes": "",
     "picture": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/04/cloud-strife-ff7remake.jpg",
     "dynpic": "https://media.tenor.com/sxUC8WkhpBEAAAAd/cloud-strife-cloud.gif"
@@ -2364,7 +2364,7 @@
     "genres": "",
     "sources": "Bonnie & Clyde",
     "media": "",
-    "setting": "",
+    "setting": "Our Reality",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/history-area/images/e/ed/Portrait-of-American-criminal-Clyde-Barrow.jpg",
     "dynpic": "https://static.wikia.nocookie.net/history-area/images/e/ed/Portrait-of-American-criminal-Clyde-Barrow.jpg"
@@ -2457,7 +2457,22 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/theboondocksaints/images/e/e0/Connor_MacManus.jpg",
-    "dynpic": ""
+    "dynpic": "https://thumbs.gfycat.com/ComplexThankfulApisdorsatalaboriosa-max-1mb.gif"
+  },
+  {
+    "name": "Murphy MacManus",
+    "type": "",
+    "gender": "",
+    "race": "",
+    "role": "",
+    "specialPowers": "",
+    "genres": "",
+    "sources": "Boondock Saints",
+    "media": "",
+    "setting": "",
+    "notes": "",
+    "picture": "https://static.wikia.nocookie.net/listofdeaths/images/b/bf/D5a9397c5c57462740bc214069c45279_400x400.jpg",
+    "dynpic": "https://i.gifer.com/origin/0f/0f071b17a16ca306a1e8e1d92f52a9af.gif"
   },
   {
     "name": "Cookie Lyon",
@@ -2472,7 +2487,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/empiretvshow/images/7/74/Cookie_Lyon_-_Empire_Season_3_Official_Cast_Photo.jpg",
-    "dynpic": ""
+    "dynpic": "https://gifimage.net/wp-content/uploads/2017/10/cookie-lyon-gif-13.gif"
   },
   {
     "name": "Corporal Hicks",
@@ -2502,7 +2517,7 @@
     "setting": "Amber",
     "notes": "",
     "picture": "https://alchetron.com/cdn/corwin-of-amber-8e2ef6db-fe40-47f6-b10e-74c7400d46c-resize-750.jpg",
-    "dynpic": ""
+    "dynpic": "https://alchetron.com/cdn/corwin-of-amber-8e2ef6db-fe40-47f6-b10e-74c7400d46c-resize-750.jpg"
   },
   {
     "name": "Cosmo Kramer",
@@ -2532,7 +2547,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/villains/images/f/f5/Count-dooku.jpg",
-    "dynpic": ""
+    "dynpic": "https://media.tenor.com/9AAsnDY-uE0AAAAC/star-wars-count-dooku.gif"
   },
   {
     "name": "Cowardly Lion",
@@ -3057,7 +3072,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/dexter/images/d/d6/Dexter_NB_Promo_5.jpg",
-    "dynpic": ""
+    "dynpic": "https://i.gifer.com/3lKL.gif"
   },
   {
     "name": "Doc Brown",
@@ -3372,7 +3387,7 @@
     "setting": "Jurassic Park",
     "notes": "",
     "picture": "https://upload.wikimedia.org/wikipedia/en/1/18/Alan_Grant_%28Sam_Neill%29.jpg",
-    "dynpic": ""
+    "dynpic": "https://media.tenor.com/daNUZaNUSFEAAAAC/holyshit-jurassic-park.gif"
   },
   {
     "name": "Dr. Doom",
@@ -6672,7 +6687,7 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "https://static.wikia.nocookie.net/p__/images/c/cd/Jonathan-Byers-Season-1.jpg",
+    "picture": "https://cdn.costumewall.com/wp-content/uploads/2016/10/jonathan-byers-costume.jpg",
     "dynpic": "https://media.tenor.com/GaDuVD2zEMwAAAAd/head-nod-jonathan-byers.gif"
   },
   {
@@ -6835,10 +6850,10 @@
     "genres": "",
     "sources": "Pathfinder: Kingmaker",
     "media": "",
-    "setting": "",
+    "setting": "Pathfinder",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://cdn.staticneo.com/ew/thumb/2/2f/Kalikke_Kanerah.jpg/662px-Kalikke_Kanerah.jpg",
+    "dynpic": "https://cdn.staticneo.com/ew/thumb/2/2f/Kalikke_Kanerah.jpg/662px-Kalikke_Kanerah.jpg"
   },
   {
     "name": "Kana Rua",
@@ -6852,8 +6867,8 @@
     "media": "Video Game",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/eternitywiki/images/2/2d/Kana-rua-portrait.jpg",
+    "dynpic": "https://static.wikia.nocookie.net/eternitywiki/images/2/2d/Kana-rua-portrait.jpg"
   },
   {
     "name": "Kano",
@@ -6867,8 +6882,8 @@
     "media": "",
     "setting": "Mortal Kombat",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/4/48/KanoMKmovie.jpg",
+    "dynpic": "https://media.tenor.com/YZxc12XFT_8AAAAC/kano-mortal-kombat.gif"
   },
   {
     "name": "Kara Thrace (Starbuck)",
@@ -6878,12 +6893,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "Battlestar Galactica (TV Series 2004-2009)",
     "media": "",
-    "setting": "",
+    "setting": "Battlestar Galactica",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://www.autostraddle.com/wp-content/uploads/2021/04/bsg.jpg",
+    "dynpic": "https://i.gifer.com/DTer.gif"
   },
   {
     "name": "Kassandra",
@@ -6897,8 +6912,8 @@
     "media": "Video Game",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/assassinscreed/images/7/7d/ACOD_Kassandra_Render_%28no_helmet%29.png",
+    "dynpic": "https://media.tenor.com/8pDOfrsHsJ4AAAAC/kassandra-assassins-creed.gif"
   },
   {
     "name": "Katniss Everdeen",
@@ -6912,8 +6927,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://media.cnn.com/api/v1/images/stellar/prod/120321073723-jennifer-lawrence-katniss-heroine.jpg",
+    "dynpic": "https://i.gifer.com/LmS7.gif"
   },
   {
     "name": "Katrina",
@@ -6927,8 +6942,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OMtyI9-YUloRK7i5Ta7YyAK5UxrVUM64SCJPae3ntENAZ93KS9CUZpy703uKLzHi5FM&usqp=CAU",
+    "dynpic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OMtyI9-YUloRK7i5Ta7YyAK5UxrVUM64SCJPae3ntENAZ93KS9CUZpy703uKLzHi5FM&usqp=CAU"
   },
   {
     "name": "Kelly Grayson",
@@ -6942,8 +6957,8 @@
     "media": "",
     "setting": "The Orville",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/orville/images/9/9e/KellyCropped.jpg",
+    "dynpic": "https://64.media.tumblr.com/93230b6da4e319b66ba39dede48880e2/tumblr_p704zu7RL81wf4baho4_250.gif"
   },
   {
     "name": "Kenny McCormick",
@@ -6957,8 +6972,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b029b0b1-f2fe-4544-9058-0c81bd9f72f9/d7s7miy-22aea577-ef0d-4ac3-a381-a77ccd5899e0.png",
+    "dynpic": "https://media2.giphy.com/media/frAqrq8f3cgwGxHfCD/giphy.gif?cid=6c09b9527f7b0d71f7c11ea5236a009d576b49bf88d481de&rid=giphy.gif"
   },
   {
     "name": "Kermit the Frog",
@@ -6972,8 +6987,8 @@
     "media": "",
     "setting": "The Muppets",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/6/62/Kermit_the_Frog.jpg",
+    "dynpic": "https://media0.giphy.com/media/YlSTv8y6spdMjaOfrS/giphy.gif"
   },
   {
     "name": "Kevin McCallister",
@@ -6987,8 +7002,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://www.usmagazine.com/wp-content/uploads/2020/11/Home-Alone-Where-Are-They-Now.jpg",
+    "dynpic": "https://media4.giphy.com/media/d2ZaW7LrLwem8W0U/200w.gif?cid=82a1493bzutvf14xhdol5yg1rcgo4mry5ctfookslykmdahn&rid=200w.gif"
   },
   {
     "name": "Keyser Soze",
@@ -7002,8 +7017,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Keyser_S%C3%B6ze_-_photo.jpg/220px-Keyser_S%C3%B6ze_-_photo.jpg",
+    "dynpic": "https://media.tenor.com/2IATEco5yboAAAAC/keyser-s%C3%B6ze-the-usual-suspects.gif"
   },
   {
     "name": "Khan Noonien Singh",
@@ -7017,8 +7032,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://i.guim.co.uk/img/media/c31dd046a73765a19cb17f60762a9b2c5a0e6ba1/0_0_1219_1523/master/1219.jpg?width=445&quality=85&dpr=1&s=none",
+    "dynpic": "https://64.media.tumblr.com/03cbd5cec377a386696975d9c18fd0a7/dbe38158157f1732-24/s640x960/9d887ddd5c05e5db0c951d9a1ef9af35177d80e3.gif"
   },
   {
     "name": "Kimiko Miyashuro",
@@ -7032,8 +7047,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://i.insider.com/5f763f1a0ab50d00184adb01?width=1000&format=jpeg",
+    "dynpic": "https://media3.giphy.com/media/dOZ6t9oyRnows1ovVb/giphy.gif"
   },
   {
     "name": "King Arthur",
@@ -7047,8 +7062,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://s.hdnux.com/photos/60/66/03/12804329/8/1200x0.jpg",
+    "dynpic": "https://i.pinimg.com/originals/9b/e4/9f/9be49fcd2b8a657d05e607b16bd0a3d4.gif"
   },
   {
     "name": "King Kong",
@@ -7058,12 +7073,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "King Kong",
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/godzilla/images/a/a2/Kingkong2005.png.png",
+    "dynpic": "https://media4.giphy.com/media/kPHplTpLwjnyvKv3Yh/giphy.gif"
   },
   {
     "name": "King Leonidas",
@@ -7073,12 +7088,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "300 (2006)",
+    "sources": "300 (Movie 2006)",
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/300/images/a/a6/Leonidas.jpg",
+    "dynpic": "https://thumbs.gfycat.com/PositiveOilyAsiaticlesserfreshwaterclam-size_restricted.gif"
   },
   {
     "name": "Kintaro",
@@ -7092,8 +7107,8 @@
     "media": "",
     "setting": "Mortal Kombat",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/mkwikia/images/1/1b/Kintaromk9.png",
+    "dynpic": "https://i.gifer.com/51bx.gif"
   },
   {
     "name": "Kirk Lazarus",
@@ -7103,12 +7118,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "Tropic Thunder (2008)",
+    "sources": "Tropic Thunder (Movie 2008)",
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://i.kym-cdn.com/entries/icons/original/000/005/804/full-1.jpg",
+    "dynpic": "https://media.tenor.com/PxFK7aQq6lQAAAAC/kirk-lazarus-survive.gif"
   },
   {
     "name": "Kitana",
@@ -7122,8 +7137,8 @@
     "media": "",
     "setting": "Mortal Kombat",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/mkwikia/images/5/59/Kitana_mk11.png",
+    "dynpic": "https://media.tenor.com/fBOdjJXqIVYAAAAC/kitana-mortal-kombat.gif"
   },
   {
     "name": "Kitiara Uth Matar",
@@ -7133,27 +7148,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "Dragonlance",
+    "sources": "D&D: Dragonlance",
     "media": "",
-    "setting": "Dungeons & Dragons",
+    "setting": "D&D: Dragonlance",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
-  },
-  {
-    "name": "Kitsune",
-    "type": "",
-    "gender": "",
-    "race": "",
-    "role": "",
-    "specialPowers": "",
-    "genres": "",
-    "sources": "Shadowrun",
-    "media": "",
-    "setting": "",
-    "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/villains/images/6/63/Kitiara.jpg",
+    "dynpic": "https://static.wikia.nocookie.net/villains/images/6/63/Kitiara.jpg"
   },
   {
     "name": "Kitty Pryde",
@@ -7167,8 +7167,8 @@
     "media": "",
     "setting": "Marvel",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/x-men/images/a/a1/Kitty_Pryde_in_X3.jpg",
+    "dynpic": "https://64.media.tumblr.com/a7172dc7b84c2fc27080be58b560c187/tumblr_ogj4u5VAn91unzuogo2_500.gif"
   },
   {
     "name": "Klyden",
@@ -7182,8 +7182,8 @@
     "media": "",
     "setting": "The Orville",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.tvmaze.com/uploads/images/medium_portrait/181/454155.jpg",
+    "dynpic": "https://media.tenor.com/Sesu25A9PHQAAAAC/bortus-the-orville.gif"
   },
   {
     "name": "Korben Dallas",
@@ -7197,23 +7197,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
-  },
-  {
-    "name": "Kramer",
-    "type": "",
-    "gender": "",
-    "race": "",
-    "role": "",
-    "specialPowers": "",
-    "genres": "",
-    "sources": "Seinfeld",
-    "media": "",
-    "setting": "Seinfeld",
-    "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/fifth-element/images/6/67/Korben_Dallas.png",
+    "dynpic": "https://64.media.tumblr.com/aee76b335ff62ba4982b64abe4678aaa/edcc8866cd32773d-ef/s540x810/0e0e4b79105751f7796cfd1361fc1245996b9926.gif"
   },
   {
     "name": "Kratos",
@@ -7227,8 +7212,8 @@
     "media": "Video Game",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/07/God-of-War-Kratos-Feature.jpg",
+    "dynpic": "https://media.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif"
   },
   {
     "name": "Kyle Brovlovski",
@@ -7242,8 +7227,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/2/25/KyleBroflovski.png",
+    "dynpic": "https://media.tenor.com/MszVYUWUX1cAAAAd/south-park-kyle-broflovski.gif"
   },
   {
     "name": "Lady Jessica",
@@ -7257,8 +7242,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/it/3/36/Lady_Jessica_%28Rebecca_Ferguson%29.png",
+    "dynpic": "https://media.tenor.com/eRhOqcxSB3wAAAAC/regal-t-lady-jessica.gif"
   },
   {
     "name": "Lady of Pain",
@@ -7268,12 +7253,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "Planescape: Torment",
+    "sources": "D&D: Planescape",
     "media": "",
-    "setting": "Dungeons & Dragons",
+    "setting": "D&D: Planescape",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://www.belloflostsouls.net/wp-content/uploads/2022/09/lady-of-pain-header-image-e1662143106126.jpg",
+    "dynpic": "https://www.belloflostsouls.net/wp-content/uploads/2022/09/lady-of-pain-header-image-e1662143106126.jpg"
   },
   {
     "name": "Lae'zel",
@@ -7285,10 +7270,10 @@
     "genres": "",
     "sources": "Baldur's Gate 3",
     "media": "",
-    "setting": "",
+    "setting": "D&D: Forgotten Realms",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://baldursgate3.wiki.fextralife.com/file/Baldurs-Gate-3/laezelpatch7.png",
+    "dynpic": "https://64.media.tumblr.com/0db22585794f01b99a0ba7f3224bd347/b7fbff0ef057de74-87/s400x600/bc60794bd85cf21f7251004c07a2d638c1ae65e4.gif"
   },
   {
     "name": "Lando Calrissian",
@@ -7302,8 +7287,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/c/cb/Lando6-2.jpg",
+    "dynpic": "https://media.tenor.com/uWrPjYtrV7kAAAAC/lando-calrissian-what.gif"
   },
   {
     "name": "Lara Croft",
@@ -7317,11 +7302,11 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://www.syfy.com/sites/syfy/files/2021/03/lara-croft-tomb-raider-25th-via-square-enix.jpg",
+    "dynpic": "https://giffiles.alphacoders.com/351/35179.gif"
   },
   {
-    "name": "Larry",
+    "name": "Larry Fine",
     "type": "",
     "gender": "",
     "race": "",
@@ -7332,8 +7317,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://flxt.tmsimg.com/assets/189023_v9_ba.jpg",
+    "dynpic": "https://media.tenor.com/7jPEPcvyBdUAAAAC/three-stooges.gif"
   },
   {
     "name": "Larry David",
@@ -7347,8 +7332,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Larry_David_at_the_2009_Tribeca_Film_Festival_2.jpg/1200px-Larry_David_at_the_2009_Tribeca_Film_Festival_2.jpg",
+    "dynpic": "https://media.tenor.com/irxvhOReV7QAAAAC/larry-david-confused.gif"
   },
   {
     "name": "Lassie",
@@ -7362,8 +7347,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://lirp.cdn-website.com/856893f0/dms3rep/multi/opt/1549-dogs-b9d029a5-640w.jpg",
+    "dynpic": "https://media.tenor.com/C1EXsO5eJDsAAAAM/collie-dog.gif"
   },
   {
     "name": "Laura Roslin",
@@ -7373,12 +7358,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "Battlestar Galactica (TV Series 2004-2009)",
     "media": "",
-    "setting": "",
+    "setting": "Battlestar Galactica",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/0/05/LauraRoslin.jpg",
+    "dynpic": "https://media.tenor.com/o4dA7WtmWuQAAAAC/laura-roslin-battlestar-galactica.gif"
   },
   {
     "name": "Laurana",
@@ -7388,12 +7373,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "Dragonlance",
+    "sources": "D&D: Dragonlance",
     "media": "",
-    "setting": "",
+    "setting": "D&D: Dragonlance",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://comicvine.gamespot.com/a/uploads/scale_small/0/77/2516611-2439623217580361479.jpeg___1_500_1_500_cb94de6a_.png",
+    "dynpic": "https://comicvine.gamespot.com/a/uploads/scale_small/0/77/2516611-2439623217580361479.jpeg___1_500_1_500_cb94de6a_.png"
   },
   {
     "name": "Laverne DeFazio",
@@ -7407,8 +7392,8 @@
     "media": "",
     "setting": "Laverne & Shirley",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/happydays/images/3/30/Laverne_DeFazio.jpg",
+    "dynpic": "https://media.tenor.com/h7n4DLbIsB0AAAAM/penny-marshall-laverne-and-shirley.gif"
   },
   {
     "name": "Lawrence \"Chunk\" Cohen",
@@ -7422,8 +7407,8 @@
     "media": "",
     "setting": "The Goonies",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://metro.co.uk/wp-content/uploads/2016/03/chunk_before.jpg",
+    "dynpic": "https://media4.giphy.com/media/Q56SF4czEtSZG/giphy.gif"
   },
   {
     "name": "Lazy",
@@ -7433,12 +7418,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "The Smurfs",
     "media": "",
-    "setting": "",
+    "setting": "The Smurfs",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/smurfsfanon/images/c/c5/Lazy_Fanfiction.jpg",
+    "dynpic": "https://media.tenor.com/WjQ7MuPqJfQAAAAC/smurf-sleeping.gif"
   },
   {
     "name": "Lee",
@@ -7452,8 +7437,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2018/07/27/a163c9e0-917a-11e8-9656-94877fce2da3_1280x720_203540.JPG",
+    "dynpic": "https://media.tenor.com/X2mrIFnNdvIAAAAC/bruce-lee-enter-the-dragon.gif"
   },
   {
     "name": "Lee Adama (Apollo)",
@@ -7463,12 +7448,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "Battlestar Galactica (TV Series 2004-2009)",
     "media": "",
-    "setting": "",
+    "setting": "Battlestar Galactica",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/galactica/images/3/37/LeeAdama.jpg",
+    "dynpic": "https://64.media.tumblr.com/505e66234d6c5d8498e97444db1d2d36/7a5b0fcb82752030-44/s400x600/a9df437da7e6d67cf5208f12dfbbbb0919edf466.gif"
   },
   {
     "name": "Lee Scoresby",
@@ -7482,8 +7467,8 @@
     "media": "",
     "setting": "His Dark Materials",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://carboncostume.com/wordpress/wp-content/uploads/2019/11/leescoresby-hisdarkmaterials.jpg",
+    "dynpic": "https://i.imgur.com/0QgVDCH.gif"
   },
   {
     "name": "Leeloo",
@@ -7497,8 +7482,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/to-hollywood-and-beyond/images/3/35/Leeloo_5e.jpg",
+    "dynpic": "https://static.wikia.nocookie.net/vsbattles/images/8/85/SpiritedUniqueGemsbok-size_restricted.gif"
   },
   {
     "name": "Lagertha",
@@ -7513,7 +7498,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F01%2Fv6_06_11232017_jh_08328-2000.jpg",
-    "dynpic": ""
+    "dynpic": "https://i.pinimg.com/originals/6c/ea/60/6cea609dcc86cb0606dff769050d07fb.gif"
   },
   {
     "name": "Legolas",
@@ -7523,12 +7508,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "Tolkien",
+    "sources": "The Lord of the Rings (Movie Series 2001-2003)",
     "media": "",
-    "setting": "",
+    "setting": "Middle-Earth",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/lotr/images/3/33/Legolas_-_in_Two_Towers.PNG",
+    "dynpic": "https://media.tenor.com/mmFKcPzBAUUAAAAC/legolas-lord-of-the-rings.gif"
   },
   {
     "name": "Leia Organa",
@@ -7542,8 +7527,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://lumiere-a.akamaihd.net/v1/images/60423c5f75f0ef00019a3921-image_0388a3e6.jpeg",
+    "dynpic": "https://media.tenor.com/64cIaCut-moAAAAM/starwars-fear.gif"
   },
   {
     "name": "Leon",
@@ -7553,12 +7538,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "Leon: The Professional",
+    "sources": "Leon: The Professional (Movie 1994)",
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://m.media-amazon.com/images/M/MV5BNWU5Njg1MGQtODg2Ny00Yjg3LWExNTgtNThkM2U4OTljNDRkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+    "dynpic": "https://media.tenor.com/zFLTEb-KfncAAAAd/enzic-enzichvh.gif"
   },
   {
     "name": "Leon Black",
@@ -7572,8 +7557,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://2paragraphs.com/wp-content/uploads/2020/06/JB-Smoove-as-Leon-620x375.jpg",
+    "dynpic": "https://www.mandatory.com/assets/uploads/gallery/leon-black/giphy-2.gif"
   },
   {
     "name": "Leonard McCoy",
@@ -7587,8 +7572,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://jonathondsvendsen.files.wordpress.com/2016/06/7-8doctorsmccoy.jpg",
+    "dynpic": "https://i.pinimg.com/originals/19/01/30/190130fdc91e592211bf8d4d4b81c526.gif"
   },
   {
     "name": "Leonardo",
@@ -7603,7 +7588,7 @@
     "setting": "",
     "notes": "",
     "picture": "https://static.wikia.nocookie.net/tmnt2012series/images/1/15/Leo_tortuga.png",
-    "dynpic": ""
+    "dynpic": "https://i.gifer.com/4efC.gif"
   },
   {
     "name": "Leslie Knope",
@@ -7617,8 +7602,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/3/34/Leslie_Knope_%28played_by_Amy_Poehler%29.png",
+    "dynpic": "https://media.tenor.com/xR5FZkoYb1AAAAAC/excited-dance.gif"
   },
   {
     "name": "Leti Lewis",
@@ -7632,8 +7617,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://seriemaniacos.tv/wp-content/uploads/2020/09/Lovecraft-capa.jpg",
+    "dynpic": "https://64.media.tumblr.com/a2ceedb11f3d94607fca89510cf39586/fb78c2442307a95f-d9/s400x600/8cb2ec2b8eccd94f9154c071ac4e6398b32844c7.gif"
   },
   {
     "name": "Lex Luthor",
@@ -7643,12 +7628,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "Superman",
     "media": "",
-    "setting": "",
+    "setting": "Superman",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/c/c8/GeneHackmanLexLuthor1978.jpg",
+    "dynpic": "https://media0.giphy.com/media/xThtax5rLn9JWYZ1vy/giphy.gif"
   },
   {
     "name": "Lexa",
@@ -7662,8 +7647,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/thehundred/images/c/c9/Lexa_in_Season_3.jpg",
+    "dynpic": "https://media.tenor.com/V-qez46TQNcAAAAC/ponste44.gif"
   },
   {
     "name": "Lightning McQueen",
@@ -7677,8 +7662,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://m.media-amazon.com/images/I/61X6TToE4fL._AC_UF894,1000_QL80_.jpg",
+    "dynpic": "https://media.tenor.com/Meo6YUeN6OkAAAAC/kachow-cars.gif"
   },
   {
     "name": "Lilo",
@@ -7692,8 +7677,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/stitchipediaalilostitch/images/a/a8/Lilo_Pelekai_official_flat_color_artwork.png",
+    "dynpic": "https://gifdb.com/images/thumbnail/lilo-and-stitch-sorry-for-biting-u59yqishbpc2jn5b.gif"
   },
   {
     "name": "Link",
@@ -7707,8 +7692,8 @@
     "media": "Video Game",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://www.denofgeek.com/wp-content/uploads/2022/05/Leged-of-Zelda-Link.jpg",
+    "dynpic": "https://media.tenor.com/ASWqGDfQUqkAAAAC/link-zelda.gif"
   },
   {
     "name": "Linzi",
@@ -7722,8 +7707,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/f/f9/Linzi.png",
+    "dynpic": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/f/f9/Linzi.png"
   },
   {
     "name": "Lip Gallagher",
@@ -7737,8 +7722,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Lip-Gallagher.Shameless.webp",
+    "dynpic": "https://media.tenor.com/rF-pmvzapt8AAAAC/shameless-lip-gallagher.gif"
   },
   {
     "name": "Lisa Simpson",
@@ -7752,8 +7737,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+    "dynpic": "https://media.tenor.com/6U3T-ZPD7jwAAAAM/lisa-simpson-the-simpsons.gif"
   },
   {
     "name": "Lisbeth Salander",
@@ -7767,8 +7752,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/milleniumtrilogy/images/b/b5/Lisbeth_Salander_2.jpg",
+    "dynpic": "https://i.gifer.com/AK6M.gif"
   },
   {
     "name": "Liu Kang",
@@ -7782,8 +7767,8 @@
     "media": "",
     "setting": "Mortal Kombat",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/9/92/LiuKangMKXRender.png",
+    "dynpic": "https://media.tenor.com/uk8rcTi7vhwAAAAd/liu-kang-mortal-kombat.gif"
   },
   {
     "name": "Lloyd Christmas",
@@ -7797,8 +7782,8 @@
     "media": "",
     "setting": "Dumb and Dumber",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/dumbanddumber/images/3/37/Lloyd_Christmas.Image.jpeg",
+    "dynpic": "https://media1.giphy.com/media/dbd6jN0Atb9i8/200w.gif?cid=6c09b952jnttfodx0uqqxobnbt0yxmckoq6edlfvs08c5edl&rid=200w.gif"
   },
   {
     "name": "Logan 5",
@@ -7812,8 +7797,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://www.scifimoviezone.com/imagedystopian/logansrun002.jpg",
+    "dynpic": "https://64.media.tumblr.com/59f827880526fa7e4c01e8f4cdc6cfba/d5c5ae97018e33c2-24/s500x750/4c1ff5e8f0dc842ab3f060375e7a9795a27158dc.gif"
   },
   {
     "name": "Lohse",
@@ -7827,8 +7812,8 @@
     "media": "Video Game",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/divinity2/images/e/e7/Lohse.jpg",
+    "dynpic": "https://media.tenor.com/K3nOI_X0mL4AAAAd/lohse-divinity2.gif"
   },
   {
     "name": "Lois Lane",
@@ -7842,8 +7827,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Superman_1978_film_Lois.jpg/265px-Superman_1978_film_Lois.jpg",
+    "dynpic": "https://thumbs.gfycat.com/LargeElegantAfricangroundhornbill-size_restricted.gif"
   },
   {
     "name": "Loki",
@@ -7857,8 +7842,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/disney/images/1/1b/Profile_-_Loki_%28Thor_Ragnarok%29.jpg",
+    "dynpic": "https://media.tenor.com/J3mfv0uJMSAAAAAC/thor-ragnarok-loki.gif"
   },
   {
     "name": "Lone Starr",
@@ -7868,12 +7853,12 @@
     "role": "",
     "specialPowers": "",
     "genres": "",
-    "sources": "",
+    "sources": "Spaceballs (Movie 1987)",
     "media": "",
-    "setting": "",
+    "setting": "Spaceballs",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://static.wikia.nocookie.net/spaceballs/images/4/4e/Lone_Starr.jpg",
+    "dynpic": "https://64.media.tumblr.com/ab550bd00cc8b794642b3054d1f7f391/bae15e887c4fd515-2f/s540x810/9bbbece8ffc0905ca747c9afd71f844e3bf5d75b.gifv"
   },
   {
     "name": "Lord Soth",
@@ -7887,8 +7872,8 @@
     "media": "",
     "setting": "Dungeons & Dragons",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://dragonlancenexus.com/wp-content/uploads/Lord_Soth_Patrick_Pullen.jpg",
+    "dynpic": "https://dragonlancenexus.com/wp-content/uploads/Lord_Soth_Patrick_Pullen.jpg"
   },
   {
     "name": "Lord Voldemort",
@@ -7902,8 +7887,8 @@
     "media": "",
     "setting": "",
     "notes": "",
-    "picture": "",
-    "dynpic": ""
+    "picture": "https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg",
+    "dynpic": "https://media4.giphy.com/media/LLxwPAjfpLak8/giphy.gif"
   },
   {
     "name": "Lotney \"Sloth\" Fratelli",

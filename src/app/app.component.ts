@@ -41,14 +41,14 @@ export class AppComponent {
   origPersons: Person[] = data;
   errMessage : String = "";
 
-  party: Person[] = [];//this.origPersons;
+  party: Person[] = []; //this.origPersons;
   sliderValue = 4;
   storedValues: number[] = [];
   partySizeLimit = this.origPersons.length;
 
   showMyClass = true;
 
-  displayStatic = true;
+  displayAnimations = false;
 
   timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
 
@@ -57,7 +57,7 @@ export class AppComponent {
     this.party = [];
     this.storedValues = [];
     this.showMyClass = true;
-    this.displayStatic = false;
+    this.displayAnimations = true;
     this.startAnimationsWithTimer();
     for (var i=0; i<this.sliderValue; i++) {
       this.assignCharacterToParty(i);
@@ -66,11 +66,11 @@ export class AppComponent {
   }
 
   startPicAnimations() {
-    this.displayStatic = false;
+    this.displayAnimations = true;
   }
   startAnimationsWithTimer() {
     clearTimeout(this.timer);
-    this.displayStatic = false;
+    this.displayAnimations = true;
     this.timer = setTimeout(() => this.stopPicAnimations(), 5000);
   }
 
@@ -98,53 +98,61 @@ export class AppComponent {
   
   
   stopPicAnimations() {
-    this.displayStatic = true;
+    this.displayAnimations = false;
   }
   
-  ngOnChanges() {
-  //  console.log("ngOnChanges");
-  }
-
-  ngOnInit() {
-   // console.log("ngOnInit");
-  }
-
-  ngDoCheck() {
-   // console.log("ngDoCheck");
-  }
-
-  ngAfterContentInit() {
-   // console.log("ngAfterContentInit");
-  }
-
-  ngAfterContentChecked() {
-   //console.log("ngAfterContentChecked");
-  }
-
-  ngAfterViewInit() {
-   // console.log("ngAfterViewInit");
-  }
-
- 
-  ngAfterViewChecked() {
-    //console.log("ngAfterViewChecked");
-    
-  }
-
-  ngOnDestroy() {
-    console.log("ngOnDestroy");
-  }
-
   mouseEnter(el: Event) {
     let element: Element = (el.target as Element);
-    element.classList.add('d-none');
-    document.getElementById('imgDynamic0')?.classList.remove('d-none');
+    let idx = this.findIdIndex(element);
+    document.getElementById("imgStatic_"+idx)?.classList.add('d-none');
+    document.getElementById('imgDynamic_'+idx)?.classList.remove('d-none');
   }
 
   mouseLeave(el: Event) {
-    console.log('mouseleave');
     let element: Element = (el.target as Element);
-    element.classList.remove('d-none');
-    document.getElementById('imgDynamic0')?.classList.add('d-none');
+    let idx = this.findIdIndex(element);
+    document.getElementById("imgStatic_"+idx)?.classList.remove('d-none');
+    document.getElementById('imgDynamic_'+idx)?.classList.add('d-none');
   }
+
+  private findIdIndex(element: Element) {
+    let strIdx = element.id.indexOf("_");
+    console.log(strIdx);
+    let idx = element.id.substring(strIdx + 1, element.id.length);
+    return idx;
+  }
+
+  ngOnChanges() {
+    //  console.log("ngOnChanges");
+    }
+  
+    ngOnInit() {
+     // console.log("ngOnInit");
+    }
+  
+    ngDoCheck() {
+     // console.log("ngDoCheck");
+    }
+  
+    ngAfterContentInit() {
+     // console.log("ngAfterContentInit");
+    }
+  
+    ngAfterContentChecked() {
+     //console.log("ngAfterContentChecked");
+    }
+  
+    ngAfterViewInit() {
+     // console.log("ngAfterViewInit");
+    }
+  
+   
+    ngAfterViewChecked() {
+      //console.log("ngAfterViewChecked");
+      
+    }
+  
+    ngOnDestroy() {
+      console.log("ngOnDestroy");
+    }
 }
