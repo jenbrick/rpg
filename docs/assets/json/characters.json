@@ -116,7 +116,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Darksun - The Prism Pentad (Book Series 1991-1993)",
-		"universe": "D&D: Darksun",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://db4sgowjqfwig.cloudfront.net/images/1992122/Agis.jpg",
 		"dynpic": "https://db4sgowjqfwig.cloudfront.net/images/1992122/Agis.jpg"
 	},
@@ -194,7 +194,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Forgotten Realms - Azure Bonds (Book 1988)",
-		"universe": "D&D: Forgotten Realms",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/Alias_-_Clyde_Caldwell.jpg",
 		"dynpic": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/Alias_-_Clyde_Caldwell.jpg"
 	},
@@ -502,7 +502,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Baldur's Gate 3 (Video Game 2023)",
-		"universe": "D&D: Forgotten Realms",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://baldursgate3.wiki.fextralife.com/file/Baldurs-Gate-3/astarion-bg3-wiki-guide.png",
 		"dynpic": "https://media.tenor.com/NYIFEWuFEIYAAAAd/astarion.gif"
 	},
@@ -1677,7 +1677,7 @@
 	},
 	{
 		"name": "Clark \"Mouth\" Devereaux",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -2606,7 +2606,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Forgotten Realms - Azure Bonds (Book 1988)",
-		"universe": "D&D: Forgotten Realms",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Dragonbait_2e.jpg",
 		"dynpic": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Dragonbait_2e.jpg"
 	},
@@ -2866,7 +2866,7 @@
 	},
 	{
 		"name": "Elendil",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -3131,7 +3131,7 @@
 	},
 	{
 		"name": "Faramir",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -3450,7 +3450,7 @@
 	},
 	{
 		"name": "Galadriel",
-		"gender": "f",
+		"gender": "Female",
 		"race": "Elf",
 		"abilities": "",
 		"genres": "",
@@ -3483,7 +3483,7 @@
 	},
 	{
 		"name": "Gandalf",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Maia",
 		"abilities": "",
 		"genres": "",
@@ -3682,7 +3682,7 @@
 	},
 	{
 		"name": "Gollum",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Hobbit",
 		"abilities": "",
 		"genres": "",
@@ -4310,7 +4310,7 @@
 	},
 	{
 		"name": "Isildur",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -4437,7 +4437,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Baldur's Gate 2",
-		"universe": "D&D: Forgotten Realms",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://static.wikia.nocookie.net/baldursgategame/images/5/51/Jaheira_NJAHEIR_Portrait_BG2.png",
 		"dynpic": "https://static.wikia.nocookie.net/baldursgategame/images/5/51/Jaheira_NJAHEIR_Portrait_BG2.png"
 	},
@@ -4965,7 +4965,7 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Romeo + Juliet (1996)",
+		"sources": "Romeo + Juliet (Movie 1996)",
 		"universe": "Shakespeare",
 		"picture": "https://s3.r29static.com/bin/entry/ecc/0,200,2000,2000/x,80/1683064/image.jpg",
 		"dynpic": "https://66.media.tumblr.com/d3b06fa8b9d2f2d3548bcf46968b5463/a3ded57b410c9275-3f/s500x750/c9f984fae1f45efce1f5170e737a3755982b3adc.gif"
@@ -5209,7 +5209,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Dragonlance",
-		"universe": "D&D: Dragonlance",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://static.wikia.nocookie.net/villains/images/6/63/Kitiara.jpg",
 		"dynpic": "https://static.wikia.nocookie.net/villains/images/6/63/Kitiara.jpg"
 	},
@@ -5286,7 +5286,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Planescape",
-		"universe": "D&D: Planescape",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://www.belloflostsouls.net/wp-content/uploads/2022/09/lady-of-pain-header-image-e1662143106126.jpg",
 		"dynpic": "https://www.belloflostsouls.net/wp-content/uploads/2022/09/lady-of-pain-header-image-e1662143106126.jpg"
 	},
@@ -5297,7 +5297,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Baldur's Gate 3",
-		"universe": "D&D: Forgotten Realms",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://baldursgate3.wiki.fextralife.com/file/Baldurs-Gate-3/laezelpatch7.png",
 		"dynpic": "https://64.media.tumblr.com/0db22585794f01b99a0ba7f3224bd347/b7fbff0ef057de74-87/s400x600/bc60794bd85cf21f7251004c07a2d638c1ae65e4.gif"
 	},
@@ -5385,7 +5385,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Dragonlance",
-		"universe": "D&D: Dragonlance",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://comicvine.gamespot.com/a/uploads/scale_small/0/77/2516611-2439623217580361479.jpeg___1_500_1_500_cb94de6a_.png",
 		"dynpic": "https://comicvine.gamespot.com/a/uploads/scale_small/0/77/2516611-2439623217580361479.jpeg___1_500_1_500_cb94de6a_.png"
 	},
@@ -5402,7 +5402,7 @@
 	},
 	{
 		"name": "Lawrence \"Chunk\" Cohen",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -5479,7 +5479,7 @@
 	},
 	{
 		"name": "Legolas",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Elf",
 		"abilities": "",
 		"genres": "",
@@ -6338,7 +6338,7 @@
 	},
 	{
 		"name": "Meriadoc Brandybuck",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Hobbit",
 		"abilities": "",
 		"genres": "",
@@ -6382,7 +6382,7 @@
 	},
 	{
 		"name": "Michael \"Mikey\" Walsh",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -6984,7 +6984,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "D&D: Darksun - The Prism Pentad (Book Series 1991-1993)",
-		"universe": "D&D: Darksun",
+		"universe": "Dungeons & Dragons Multiverse",
 		"picture": "https://static.wikia.nocookie.net/darksun/images/a/a0/Neeva.jpg",
 		"dynpic": "https://static.wikia.nocookie.net/darksun/images/a/a0/Neeva.jpg"
 	},
@@ -7568,8 +7568,8 @@
 		"genres": "",
 		"sources": "Pocahantas",
 		"universe": "Disney",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/f/f2/Pocahontas_Disney.png",
+		"dynpic": "https://media2.giphy.com/media/7kHBXCO6Zckak/giphy.gif"
 	},
 	{
 		"name": "Poison Ivy",
@@ -7579,8 +7579,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/antagonists/images/1/1b/Poison_Ivy_%28Uma%29.jpg",
+		"dynpic": "https://media.tenor.com/H6GnlGBl4lUAAAAd/poison-ivy-uma-thurman.gif"
 	},
 	{
 		"name": "Pope Pious VIII",
@@ -7590,8 +7590,8 @@
 		"genres": "",
 		"sources": "The Young Pope",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://m.media-amazon.com/images/M/MV5BNzk3NjA2NTUwMl5BMl5BanBnXkFtZTgwODI0ODUzNDM@._V1_.jpg",
+		"dynpic": "http://www.indiewire.com/wp-content/uploads/2017/01/the-young-pope-snack-now.gif"
 	},
 	{
 		"name": "Popeye",
@@ -7601,8 +7601,8 @@
 		"genres": "",
 		"sources": "Popeye",
 		"universe": "Popeye",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/0/00/Popeye_the_Sailor.png",
+		"dynpic": "https://media4.giphy.com/media/90PPv7eqekhrO/giphy.gif"
 	},
 	{
 		"name": "Porky Pig",
@@ -7612,8 +7612,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Porky_Pig.svg/640px-Porky_Pig.svg.png",
+		"dynpic": "https://thumbs.gfycat.com/DapperElegantHerculesbeetle-size_restricted.gif"
 	},
 	{
 		"name": "Powder",
@@ -7623,8 +7623,8 @@
 		"genres": "",
 		"sources": "Powder",
 		"universe": "Powder",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://dkanut5j171nq.cloudfront.net/catalogue-images/ti105510.jpg",
+		"dynpic": "https://media3.giphy.com/media/9PrVuXKoFbomk/200w.gif?cid=6c09b952rtepqh7uqtu8aefej8k48q7hx7r157jrgvkbk9yc&rid=200w.gif"
 	},
 	{
 		"name": "Predator",
@@ -7634,19 +7634,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "President Laura Roslin",
-		"gender": "",
-		"race": "",
-		"abilities": "",
-		"genres": "",
-		"sources": "",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://parade.com/.image/t_share/MTkxMTIyOTgyMzYwMzI3NTM0/predator-movies-ranked-ftr.jpg",
+		"dynpic": "https://media4.giphy.com/media/TaeODwstUUJ0I/giphy.gif"
 	},
 	{
 		"name": "Prince Akeem",
@@ -7656,8 +7645,8 @@
 		"genres": "",
 		"sources": "Coming to America",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://arbiterz.com/wp-content/uploads/2019/10/DwrgHLYUYAAgB-1.jpg-large.jpg",
+		"dynpic": "https://media.tenor.com/0jaWG6Tq-kAAAAAC/coming-to-america-prince-akeem.gif"
 	},
 	{
 		"name": "Princess Celestia",
@@ -7667,8 +7656,8 @@
 		"genres": "",
 		"sources": "My Little Pony",
 		"universe": "My Little Pony",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/mlp/images/2/2a/Princess_Celestia_ID_S4E01.png",
+		"dynpic": "https://i.pinimg.com/originals/c2/c4/00/c2c400732c3b10348ba60fb95fdae5af.gif"
 	},
 	{
 		"name": "Private Pyle",
@@ -7678,8 +7667,8 @@
 		"genres": "",
 		"sources": "Full Metal Jacket",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/villains/images/f/fb/Vincent_D%E2%80%99Onofrio_Full_Metal_Jacket.jpg",
+		"dynpic": "https://i.imgur.com/IyI4rLs.gif"
 	},
 	{
 		"name": "Private Vasquez",
@@ -7687,10 +7676,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "Aliens (Movie 1986)",
+		"universe": "Alien",
+		"picture": "https://static.wikia.nocookie.net/alienanthology/images/f/ff/Aliens_Jenette_Goldstein1.jpg",
+		"dynpic": "https://media4.giphy.com/media/80nrb7IYNOtxe/giphy.gif"
 	},
 	{
 		"name": "Private William Hudson",
@@ -7698,10 +7687,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Aliens (1986)",
+		"sources": "Aliens (Movie 1986)",
 		"universe": "Alien",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/e/ef/Hudson_Aliens.jpeg",
+		"dynpic": "https://64.media.tumblr.com/def0992bb38a37c9bfa7e3509881db6b/35b1fe2f3d50fb4a-2e/s400x600/d9fa88cc62b2056ff94971ac30cb085b3e8983af.gif"
 	},
 	{
 		"name": "Professor Minerva McGonagall",
@@ -7711,8 +7700,8 @@
 		"genres": "",
 		"sources": "Harry Potter",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/vsbattles/images/0/07/Minervamcgonagallpic.png",
+		"dynpic": "https://i.gifer.com/origin/80/80a4b1741cb72afdde32a01653b66272.gif"
 	},
 	{
 		"name": "Professor Plum",
@@ -7720,32 +7709,21 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Clue (1985)",
+		"sources": "Clue (Movie 1985)",
 		"universe": "Clue",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://m.media-amazon.com/images/M/MV5BMTA5MzI0NDU0MjZeQTJeQWpwZ15BbWU3MDQ1NTI4MTQ@._V1_.jpg",
+		"dynpic": "https://64.media.tumblr.com/6a7b69cfebf112e0886d736a398173e0/a570911ca59cf259-62/s540x810/e776873ec7beeb9e01b2ceb0c18bd8ef00858ea4.gifv"
 	},
 	{
-		"name": "Professor X (Charles Xavier",
+		"name": "Charles Xavier (Professor X)",
 		"gender": "",
 		"race": "",
 		"abilities": "",
 		"genres": "",
 		"sources": "X-Men",
 		"universe": "Marvel",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "Prospero",
-		"gender": "",
-		"race": "",
-		"abilities": "",
-		"genres": "",
-		"sources": "Shakespeare",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://screenrant.com/wp-content/uploads/X-Men-Character-Guide-Professor-Xavier-2.jpg",
+		"dynpic": "https://media0.giphy.com/media/xUA7aVW7WzU39xbJZK/giphy.gif"
 	},
 	{
 		"name": "Prostetnic Vogon Jeltz",
@@ -7759,26 +7737,26 @@
 		"dynpic": "https://thumbs.gfycat.com/RapidComplexImpala-size_restricted.gif"
 	},
 	{
-		"name": "Pumba",
+		"name": "Pumbaa",
 		"gender": "",
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "The Lion King",
+		"universe": "Disney",
+		"picture": "https://upload.wikimedia.org/wikipedia/en/9/91/Pumbaa.png",
+		"dynpic": "https://media.tenor.com/AcJT4bAfEngAAAAM/pumba-are-you-talking-to-me.gif"
 	},
 	{
-		"name": "Punisher (Frank Castle)",
+		"name": "Frank Castle (Punisher)",
 		"gender": "",
 		"race": "",
 		"abilities": "",
 		"genres": "",
 		"sources": "Marvel",
 		"universe": "Marvel",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://cdn.mos.cms.futurecdn.net/hmqRmo66wdfs27gf8RGZkn-1200-80.jpg",
+		"dynpic": "https://i.pinimg.com/originals/05/fe/71/05fe7136890b8fab504458dc0e17c740.gif"
 	},
 	{
 		"name": "Puss in Boots",
@@ -7787,9 +7765,9 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Shrek",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"universe": "Disney",
+		"picture": "https://static.wikia.nocookie.net/p__/images/8/82/PussInBoots2022.png",
+		"dynpic": "https://media3.giphy.com/media/yrU2lNHek5IZ0AMybL/giphy.gif"
 	},
 	{
 		"name": "Q",
@@ -7799,8 +7777,8 @@
 		"genres": "",
 		"sources": "Star Trek",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/3/3a/Q_portrait.jpg",
+		"dynpic": "https://media.tenor.com/lGVTw7BJ5g4AAAAC/blow-a-kiss-q-star-trek.gif"
 	},
 	{
 		"name": "Quark",
@@ -7810,8 +7788,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/p__/images/8/85/Quark.jpg",
+		"dynpic": "https://media.tenor.com/Us3J_Z4I324AAAAC/quark-trek-star.gif"
 	},
 	{
 		"name": "Quasimodo",
@@ -7821,8 +7799,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://www.looper.com/img/gallery/things-only-adults-notice-in-disneys-the-hunchback-of-notre-dame/intro-1654079485.jpg",
+		"dynpic": "https://i.gifer.com/3sU1.gif"
 	},
 	{
 		"name": "Queen Bavmorda",
@@ -7832,8 +7810,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/villains/images/d/d1/Queen_Bavmorda.jpg",
+		"dynpic": "https://64.media.tumblr.com/tumblr_mdnudwulh11rn655co2_250.gif"
 	},
 	{
 		"name": "Queen Elizabeth I",
@@ -7843,8 +7821,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://i.pinimg.com/originals/71/50/4d/71504d1c5ea4010f9a57d9c95f5b9782.jpg",
+		"dynpic": "https://media4.giphy.com/media/10rg2eQTvVOMCI/200w.gif?cid=6c09b952tr5yd31avebpxbky83h7ge2qaxpm0l62j6fml7qe&rid=200w.gif"
 	},
 	{
 		"name": "Queen Maeve",
@@ -7854,19 +7832,19 @@
 		"genres": "",
 		"sources": "The Boys",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/villains/images/3/3f/Queen_Maeve_Transparent.png",
+		"dynpic": "https://media.tenor.com/wybzstfSgL0AAAAC/defending-queen-maeve.gif"
 	},
 	{
-		"name": "Qui-Gon Jinn[edit]",
+		"name": "Qui-Gon Jinn",
 		"gender": "",
 		"race": "",
 		"abilities": "",
 		"genres": "",
 		"sources": "Star Wars",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/a/ad/Qui-Gon_Jinn.png",
+		"dynpic": "https://media.tenor.com/m5D1So68RoAAAAAC/qui-gon-jinn-brinasgift.gif"
 	},
 	{
 		"name": "R2-D2",
@@ -7876,8 +7854,8 @@
 		"genres": "",
 		"sources": "Star Wars",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png",
+		"dynpic": "https://media.tenor.com/_cthHzrxMikAAAAC/star-wars-r2d2.gif"
 	},
 	{
 		"name": "Rachel Greene",
@@ -7886,20 +7864,20 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Friends",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"universe": "Friends, Seinfeld, Mad About You",
+		"picture": "https://static.wikia.nocookie.net/friends/images/e/e3/Rachel-Season-5.png",
+		"dynpic": "https://media.tenor.com/7r0HbA367jgAAAAM/friends-rachel-green.gif"
 	},
 	{
-		"name": "Radagast (Aiwendil)",
-		"gender": "m",
+		"name": "Radagast",
+		"gender": "Male",
 		"race": "Maia",
 		"abilities": "",
 		"genres": "",
 		"sources": "Tolkien",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/lotr/images/1/11/Radagast_the_Brown.jpg",
+		"dynpic": "https://thumbs.gfycat.com/EmbellishedOffbeatIndigobunting-max-1mb.gif"
 	},
 	{
 		"name": "Raffi Musiker",
@@ -7909,8 +7887,8 @@
 		"genres": "",
 		"sources": "Star Trek",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://sportshub.cbsistatic.com/i/2021/03/18/50bbf2d3-ac8d-4db2-a4ec-56246f1a4057/star-trek-picard-raffi-musiker-1205377.jpg",
+		"dynpic": "https://66.media.tumblr.com/10accad5ded0dfe9a0cf8a2fc308c2ab/89727bae9d57216e-f0/s500x750/a593a5b05d64a11826b62752150d078179415691.gifv"
 	},
 	{
 		"name": "Ragnar",
@@ -7920,8 +7898,8 @@
 		"genres": "",
 		"sources": "Vikings",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "http://cdn.shopify.com/s/files/1/1565/1123/articles/ragnar_vikings_grimfrost_1024x1024.jpg",
+		"dynpic": "https://media.tenor.com/Zyx1sRbAq7cAAAAC/ragnar-battle.gif"
 	},
 	{
 		"name": "Raiden",
@@ -7931,8 +7909,8 @@
 		"genres": "",
 		"sources": "Mortal Kombat",
 		"universe": "Mortal Kombat",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/mkwikia/images/c/cb/Ra.png",
+		"dynpic": "https://media.tenor.com/-_CuKtWc3-EAAAAC/mortal-kombat-mortal-kombat11.gif"
 	},
 	{
 		"name": "Raistlin Majere",
@@ -7940,10 +7918,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Dragonlance",
-		"universe": "Dungeons & Dragons",
-		"picture": "",
-		"dynpic": ""
+		"sources": "D&D: Dragonlance",
+		"universe": "Dungeons & Dragons Multiverse",
+		"picture": "https://comicvine.gamespot.com/a/uploads/scale_small/5/58395/1625964-200px_raistlin.png",
+		"dynpic": "https://comicvine.gamespot.com/a/uploads/scale_small/5/58395/1625964-200px_raistlin.png"
 	},
 	{
 		"name": "Ralphie",
@@ -7953,8 +7931,8 @@
 		"genres": "",
 		"sources": "A Christmas Story",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cast-christmas-story-then-and-now-peter-billingsley-1607976145.png",
+		"dynpic": "https://media.tenor.com/GmrjZVj1shUAAAAC/smiling-ralphie.gif"
 	},
 	{
 		"name": "Rambo",
@@ -7962,10 +7940,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "Rambo",
+		"universe": "Rambo",
+		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Rambo.jpg/1200px-John_Rambo.jpg",
+		"dynpic": "https://i.pinimg.com/originals/09/a5/ab/09a5ab42501c718820f83ce3775d9899.gif"
 	},
 	{
 		"name": "Randy \"The Ram\" Robinson",
@@ -7973,10 +7951,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "The Wrestler (2008)",
+		"sources": "The Wrestler (Movie 2008)",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://i.pinimg.com/originals/ec/51/7c/ec517cd176e114a57451cecc4eb0730b.jpg",
+		"dynpic": "https://64.media.tumblr.com/63e6ab7a3c38edfd3aa28e66b74dd838/tumblr_nl1ruhLkWP1tpri36o1_500.gif"
 	},
 	{
 		"name": "Raphael",
@@ -7987,7 +7965,7 @@
 		"sources": "Teenage Mutant Ninja Turtles",
 		"universe": "",
 		"picture": "https://static.wikia.nocookie.net/tmnt2012series/images/6/63/Raph-rage.png",
-		"dynpic": ""
+		"dynpic": "https://media.tenor.com/R5k_q_ixRq8AAAAC/raphael-tmnt.gif"
 	},
 	{
 		"name": "Rapunzel",
@@ -7997,19 +7975,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "Rayman",
-		"gender": "",
-		"race": "",
-		"abilities": "",
-		"genres": "",
-		"sources": "Ray Man",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Rapunzel_tangled.png/220px-Rapunzel_tangled.png",
+		"dynpic": "https://media.tenor.com/l6OEP5URnFYAAAAC/tangled-rapunzel.gif"
 	},
 	{
 		"name": "Raymond Babbitt",
@@ -8019,8 +7986,8 @@
 		"genres": "",
 		"sources": "Rain Main",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/fosterpedia/images/9/93/Raymond_Babbit.jpg",
+		"dynpic": "https://64.media.tumblr.com/384f2564429adb167c9042924863154c/tumblr_inline_nll2jtJkCO1r4j8j1.gif"
 	},
 	{
 		"name": "Red",
@@ -8030,8 +7997,8 @@
 		"genres": "",
 		"sources": "The Shawshank Redemption",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/shawshank/images/5/5a/Red.jpg",
+		"dynpic": "https://media4.giphy.com/media/2zowpb8JizmCRHq0PR/giphy.gif"
 	},
 	{
 		"name": "Red Sonja",
@@ -8041,8 +8008,8 @@
 		"genres": "",
 		"sources": "Red Sonja",
 		"universe": "Conan",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://m.media-amazon.com/images/M/MV5BNTA0NTY2YzUtMDAyNC00ZmQwLTgyMjYtYmJhOWM4NzlkZDEwXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+		"dynpic": "https://64.media.tumblr.com/54a0d30a041b81976fd83ab833126228/41a9702c9693e04b-a8/s1280x1920/81a5284c3aad47423f92716dacd0b93481a6c5a0.gif"
 	},
 	{
 		"name": "Regan MacNiel",
@@ -8052,19 +8019,19 @@
 		"genres": "",
 		"sources": "The Exorcist",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/halloweenhorrornights/images/e/ed/23DFBCBA-B1F6-4946-805B-60465B49A6F8.jpeg",
+		"dynpic": "https://media.tenor.com/jwrvRE9B5WoAAAAM/the-exorcist-regan-mac-neil.gif"
 	},
 	{
-		"name": "Regina",
+		"name": "Regina Mills",
 		"gender": "",
 		"race": "",
 		"abilities": "",
 		"genres": "",
 		"sources": "Once Upon A Time",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "http://tvline.com/wp-content/uploads/2013/04/onceuponatime_manhattan_regina.jpg",
+		"dynpic": "https://media1.popsugar-assets.com/files/thumbor/2ii_IjyPp7yacm1JVa1uenkAXS0/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/01/03/917/n/1922283/5827c6de7b395ea9_source_1_/i/She-Possesses-Both-Light-Dark-Magic.gif"
 	},
 	{
 		"name": "Regina George",
@@ -8074,8 +8041,8 @@
 		"genres": "",
 		"sources": "Mean Girls",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/meangirls/images/4/42/018.jpg",
+		"dynpic": "https://media.tenor.com/NSPkWtgbrVEAAAAC/mean-girls-whatever.gif"
 	},
 	{
 		"name": "Regongar",
@@ -8085,8 +8052,8 @@
 		"genres": "",
 		"sources": "Pathfinder: Kingmaker",
 		"universe": "Golarion",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/4/45/Regongar.png",
+		"dynpic": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/4/45/Regongar.png/revision/latest?cb=20180927134309"
 	},
 	{
 		"name": "Remy",
@@ -8094,10 +8061,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Ratatouille (2007)",
+		"sources": "Ratatouille (Movie 2007)",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://kh.wiki.gallery/images/7/77/Little_Chef_KHIII.png",
+		"dynpic": "https://i.pinimg.com/originals/11/b3/95/11b3957092e8ce668318200513ca502c.gif"
 	},
 	{
 		"name": "Rex",
@@ -8107,8 +8074,8 @@
 		"genres": "",
 		"sources": "Toy Story",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/p__/images/0/03/Rex_Toy_Story_4.png",
+		"dynpic": "https://media.tenor.com/hsLX6OyNm9gAAAAC/rex-toy-story.gif"
 	},
 	{
 		"name": "Rey",
@@ -8117,20 +8084,20 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Star Wars",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"universe": "Star Wars",
+		"picture": "https://upload.wikimedia.org/wikipedia/en/a/af/Rey_Star_Wars.png",
+		"dynpic": "https://media.tenor.com/lRFkHTWGxD4AAAAC/star-wars-rey.gif"
 	},
 	{
 		"name": "Richard \"Data\" Wang",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
 		"sources": "The Goonies",
 		"universe": "The Goonies",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/goonies/images/7/7d/Data.png",
+		"dynpic": "https://thumbs.gfycat.com/EllipticalWeepyElk-size_restricted.gif"
 	},
 	{
 		"name": "Rick",
@@ -8140,19 +8107,8 @@
 		"genres": "",
 		"sources": "Rick & Morty",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "Rick Blaine",
-		"gender": "",
-		"race": "",
-		"abilities": "",
-		"genres": "",
-		"sources": "Casablanca",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-and-morty-image-1662104014.jpg",
+		"dynpic": "https://media.tenor.com/59XvimJwLUMAAAAC/rick-and-morty-rick.gif"
 	},
 	{
 		"name": "Rick Deckard",
@@ -8160,10 +8116,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Blade Runner (1982)",
+		"sources": "Blade Runner (Movie 1982)",
 		"universe": "Blade Runner",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rick_Deckard.jpg",
+		"dynpic": "https://i.gifer.com/1rHS.gif"
 	},
 	{
 		"name": "Rick Grimes",
@@ -8171,10 +8127,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "The Walking Dead",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "The Walking Dead (TV Series 2010-2022)",
+		"universe": "The Walking Dead",
+		"picture": "https://media.vanityfair.com/photos/58b9e521a50ee02e65e431ab/master/w_2560%2Cc_limit/rick-grimes-amc-the-walking-dead.jpg",
+		"dynpic": "https://i.gifer.com/DM5.gif"
 	},
 	{
 		"name": "Riddick",
@@ -8184,8 +8140,8 @@
 		"genres": "",
 		"sources": "Pitch Black",
 		"universe": "The Chronicles of Riddick / Pitch Black",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/c/c6/Riddick_-_photo.jpg",
+		"dynpic": "https://i.gifer.com/Aj6N.gif"
 	},
 	{
 		"name": "Rikus",
@@ -8193,10 +8149,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "The Prism Pentad",
-		"universe": "Dungeons & Dragons - Darksun",
-		"picture": "",
-		"dynpic": ""
+		"sources": "D&D: Darksun - The Prism Pentad (Book Series 1991-1993)",
+		"universe": "Dungeons & Dragons Multiverse",
+		"picture": "https://static.wikia.nocookie.net/darksun/images/2/2d/Rikus.jpg",
+		"dynpic": "https://static.wikia.nocookie.net/darksun/images/2/2d/Rikus.jpg"
 	},
 	{
 		"name": "River Tam",
@@ -8206,8 +8162,8 @@
 		"genres": "",
 		"sources": "Firefly",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/firefly/images/4/41/Riverserenity14.jpg",
+		"dynpic": "https://i.imgur.com/tghX5OB.gif"
 	},
 	{
 		"name": "Riverwind",
@@ -8215,10 +8171,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Dragonlance",
-		"universe": "Dungeons & Dragons",
-		"picture": "",
-		"dynpic": ""
+		"sources": "D&D: Dragonlance",
+		"universe": "Dungeons & Dragons Multiverse",
+		"picture": "https://dragonlancereadingorder.com/images/characters/riverwind.jpg",
+		"dynpic": "https://dragonlancereadingorder.com/images/characters/riverwind.jpg"
 	},
 	{
 		"name": "Robin Hood",
@@ -8228,8 +8184,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://www.reactiongifs.us/wp-content/uploads/2013/04/heh_robin_hood_men_in_tights.gif",
+		"dynpic": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/robin-hood-men-in-tights-cary-elwes.jpg"
 	},
 	{
 		"name": "Rocket",
@@ -8239,8 +8195,8 @@
 		"genres": "",
 		"sources": "Guardians of the Galaxy",
 		"universe": "Marvel",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/c/ce/Rocket_in_Avengers_Endgame.jpeg",
+		"dynpic": "https://media.tenor.com/jWHiKwSPwdEAAAAC/wink-got-it-dude.gif"
 	},
 	{
 		"name": "Rocky Balboa",
@@ -8250,8 +8206,8 @@
 		"genres": "",
 		"sources": "Rocky",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/5/53/Rocky_balboa.jpeg",
+		"dynpic": "https://media2.giphy.com/media/1wXberbwfS4rKW8Uxo/giphy.gif"
 	},
 	{
 		"name": "Roger Rabbit",
@@ -8261,8 +8217,8 @@
 		"genres": "",
 		"sources": "Who Framed Roger Rabbit",
 		"universe": "Who Framed Roger Rabbit",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/p__/images/b/b6/Rogerpoint.png",
+		"dynpic": "https://i.gifer.com/5i06.gif"
 	},
 	{
 		"name": "Romeo",
@@ -8270,10 +8226,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Romeo & Juliet",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "Romeo + Juliet (Movie 1996)",
+		"universe": "Shakespeare",
+		"picture": "https://hellogiggles.com/wp-content/uploads/sites/7/2016/08/15/romeo.jpg",
+		"dynpic": "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/4/22/asset/buzzfeed-prod-web-03/anigif_sub-buzz-32307-1533434583-1.gif"
 	},
 	{
 		"name": "Ron Burgundy",
@@ -8283,8 +8239,8 @@
 		"genres": "Comedy",
 		"sources": "Anchorman",
 		"universe": "Anchorman",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://media.newyorker.com/photos/590953036552fa0be682c46f/master/w_2560%2Cc_limit/anchorman-memoir.jpg",
+		"dynpic": "https://i.pinimg.com/originals/0d/8f/7a/0d8f7aae453ea6228a10a77d6f175d03.gif"
 	},
 	{
 		"name": "Ron Swanson",
@@ -8292,10 +8248,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Parks and Recreation",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "Parks and Recreation (TV Series 2009-2015)",
+		"universe": "Parks and Recreation",
+		"picture": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTc4NDc4NDg3Nzc0MzMz/ron-swanson-from-parks-and-recreation.jpg",
+		"dynpic": "https://thumbs.gfycat.com/QuarrelsomeOilyHumpbackwhale-size_restricted.gif"
 	},
 	{
 		"name": "Ronald McDonald",
@@ -8305,8 +8261,8 @@
 		"genres": "",
 		"sources": "McDonalds",
 		"universe": "McDonalds",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/ronaldmcdonald/images/0/0a/Original2.jpg",
+		"dynpic": "https://media3.giphy.com/media/3ohs7O2afIz1a8bWPm/giphy.gif"
 	},
 	{
 		"name": "Ronan",
@@ -8316,8 +8272,8 @@
 		"genres": "",
 		"sources": "Guardians of the Galaxy",
 		"universe": "Marvel",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/04/Ronan-Guardians-of-the-Galaxy-Marvel.jpg",
+		"dynpic": "https://media.tenor.com/tMlfKg9oroEAAAAC/ronan-ronan-the-accuser.gif"
 	},
 	{
 		"name": "Rooster Cogburne",
@@ -8325,10 +8281,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "True Grit (1968)",
+		"sources": "True Grit (Movie 1968)",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/truegrit/images/a/a6/Trailer1_20.jpg",
+		"dynpic": "https://thumbs.gfycat.com/SneakyCalmIzuthrush-size_restricted.gif"
 	},
 	{
 		"name": "Rorschach",
@@ -8336,10 +8292,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Watchmen (2009)",
+		"sources": "Watchmen (Movie 2009)",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://cdn.mos.cms.futurecdn.net/aVHd9379oSKgQUgVVbMHiY.jpg",
+		"dynpic": "https://media0.giphy.com/media/PwhzKJ3N6cLFS/giphy.gif"
 	},
 	{
 		"name": "Rosa Diaz",
@@ -8349,8 +8305,8 @@
 		"genres": "",
 		"sources": "Brooklyn Nine-nine",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/p__/images/7/78/Rosa_Diaz.jpeg",
+		"dynpic": "https://media.tenor.com/dTsDbNcCJRoAAAAM/brooklyn-nine-nine-brooklyn99.gif"
 	},
 	{
 		"name": "Rose",
@@ -8360,8 +8316,8 @@
 		"genres": "",
 		"sources": "Wasteland 2",
 		"universe": "Wasteland",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/wasteland_gamepedia/images/f/f4/WL2_Rose.png",
+		"dynpic": "https://static.wikia.nocookie.net/wasteland_gamepedia/images/f/f4/WL2_Rose.png"
 	},
 	{
 		"name": "Rose Nylan",
@@ -8371,19 +8327,19 @@
 		"genres": "",
 		"sources": "The Golden Girls",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://www.financialplannerla.com/wp-content/uploads/2016/04/bettywhitebear.jpg",
+		"dynpic": "https://media.tenor.com/pbDAS1iRUwUAAAAM/startled-shy.gif"
 	},
 	{
 		"name": "Rosita Espinosa",
-		"gender": "",
+		"gender": "Female",
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "The Walking Dead",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "The Walking Dead (TV Series 2010-2022)",
+		"universe": "The Walking Dead",
+		"picture": "https://resize-elle.ladmedia.fr/rcrop/638,,forcex/img/var/plain_site/storage/images/people/la-vie-des-people/news/the-walking-dead-a-quoi-ressemblent-les-acteurs-en-vrai/rosita/53960184-1-fre-FR/Rosita.jpg",
+		"dynpic": "https://media1.giphy.com/media/3ov9jT0immQJiW6IRa/giphy.gif"
 	},
 	{
 		"name": "Roy Batty",
@@ -8391,10 +8347,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Blade Runner (1982)",
+		"sources": "Blade Runner (Movie 1982)",
 		"universe": "Blade Runner",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/bladerunner/images/c/c6/Roy_Batty_new.jpg",
+		"dynpic": "http://24.media.tumblr.com/tumblr_me8334QQyp1qg39ewo1_500.gif"
 	},
 	{
 		"name": "Rubber",
@@ -8402,10 +8358,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "Rubber",
+		"universe": "Rubber",
+		"picture": "https://s.yimg.com/os/en-US/blogs/ept_prod/rubberbig.jpg",
+		"dynpic": "https://media.tenor.com/Z9kr9ItaBlcAAAAd/rubber-movie.gif"
 	},
 	{
 		"name": "Rubeus Hagrid",
@@ -8415,8 +8371,8 @@
 		"genres": "",
 		"sources": "Harry Potter and the Sorcerer's Stone",
 		"universe": "Harry Potter",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/1/10/RubeusHagrid.jpg",
+		"dynpic": "https://media.tenor.com/CSTn8eb1x8IAAAAC/hagrid-harry-potter.gif"
 	},
 	{
 		"name": "Russell",
@@ -8427,7 +8383,6 @@
 		"genres": "",
 		"sources": "Up",
 		"universe": "",
-		"notes": "Russell was missing the \"Assisting the Elderly\" Wilderness Patch, the last one to put him in the rank of Senior Wilderness Explorer.",
 		"picture": "",
 		"dynpic": ""
 	},
@@ -8439,8 +8394,8 @@
 		"genres": "",
 		"sources": "True Detective",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://www.shecos.com/blog/wp-content/uploads/2019/06/russell-up-costume-ideas.jpg",
+		"dynpic": "https://media.tenor.com/9FmqTtTkohwAAAAC/wilderness-explorer.gif"
 	},
 	{
 		"name": "Ruth Langmore",
@@ -8450,19 +8405,8 @@
 		"genres": "",
 		"sources": "Ozark",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "Sabrina",
-		"gender": "",
-		"race": "",
-		"abilities": "",
-		"genres": "",
-		"sources": "Chilling Adventures of Sabrena",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/ozark-netflix/images/a/a3/RuthyLangmore-Official.png",
+		"dynpic": "https://media4.giphy.com/media/Wtalnj96EH5t2iPxGZ/giphy.gif"
 	},
 	{
 		"name": "Sadira",
@@ -8470,10 +8414,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "The Prism Pentad",
-		"universe": "Dungeons & Dragons - Darksun",
-		"picture": "",
-		"dynpic": ""
+		"sources": "D&D: Darksun - The Prism Pentad (Book Series 1991-1993)",
+		"universe": "Dungeons & Dragons Multiverse",
+		"picture": "https://static.wikia.nocookie.net/darksun/images/3/32/Sadira.jpg",
+		"dynpic": "https://static.wikia.nocookie.net/darksun/images/3/32/Sadira.jpg"
 	},
 	{
 		"name": "Sam",
@@ -8483,8 +8427,8 @@
 		"genres": "",
 		"sources": "The Lost Boys",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/lostboys/images/5/54/Sam-emerson.jpg",
+		"dynpic": "https://64.media.tumblr.com/c28d6c5a276bce4760700ac5f979994f/2d36b2310fbaef47-c3/s500x750/3e011a259051ee4467096ba37be0aa7986718dba.gif"
 	},
 	{
 		"name": "Sam Malone",
@@ -8494,8 +8438,8 @@
 		"genres": "",
 		"sources": "Cheers",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/cheers/images/8/82/Sam1.jpg",
+		"dynpic": "https://i1.wp.com/i.giphy.com/media/h3ccxYtHeg1aebPk7Z/giphy.gif"
 	},
 	{
 		"name": "Samantha Carter",
@@ -8505,8 +8449,8 @@
 		"genres": "",
 		"sources": "Stargate-SG1",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/stargate-sgc/images/f/f1/Samantha_Carter_001.jpg",
+		"dynpic": "https://media.tenor.com/DYXUaSWLczAAAAAM/sam-carter-indeed.gif"
 	},
 	{
 		"name": "Samantha Stevens",
@@ -8527,17 +8471,17 @@
 		"genres": "",
 		"sources": "The Fugitive",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/warner-bros-entertainment/images/6/66/U.S.-Marshals-%28Directed-by-Stuart-Baird%29-.jpg",
+		"dynpic": "https://64.media.tumblr.com/da798ec4a568051c9705c977f5bb7aac/tumblr_pmssb8A1ki1y4rf59o4_r1_500.gif"
 	},
 	{
 		"name": "Samwise Gamgee (Sam)",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Hobbit",
 		"abilities": "",
 		"genres": "",
-		"sources": "Tolkien",
-		"universe": "",
+		"sources": "The Lord of the Rings (Movie Series 2001-2003)",
+		"universe": "Eä",
 		"picture": "https://static.wikia.nocookie.net/lotr/images/5/52/Samwise_Gamgee_1.PNG",
 		"dynpic": "https://media.tenor.com/pah6cIxA5GAAAAAM/hobbit-sam2015.gif"
 	},
@@ -8549,19 +8493,19 @@
 		"genres": "",
 		"sources": "Game of Thrones",
 		"universe": "Game of Thrones",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/The_Hound_in_%27The_Children%27.jpg/220px-The_Hound_in_%27The_Children%27.jpg",
+		"dynpic": "https://i.pinimg.com/originals/ef/aa/50/efaa50820ae3a7e771cb150386d0c21d.gif"
 	},
 	{
-		"name": "Sandy Olssen",
+		"name": "Sandy Olsson",
 		"gender": "",
 		"race": "",
 		"abilities": "",
 		"genres": "",
 		"sources": "Grease",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://media.vogue.fr/photos/5c2f413014f2f3823f8e2a9b/2:3/w_2560%2Cc_limit/grease_olivia_newton_john_john_travolta_8590_jpeg_4205.jpeg",
+		"dynpic": "https://thumbs.gfycat.com/HiddenHeartfeltApisdorsatalaboriosa-max-1mb.gif"
 	},
 	{
 		"name": "Sansa Stark",
@@ -8569,10 +8513,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "Game of Thrones",
+		"sources": "Game of Thrones (TV Series 2011-2019)",
 		"universe": "Game of Thrones",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG",
+		"dynpic": "https://i.pinimg.com/originals/85/8f/c3/858fc349bfeacc99c3681aff7c43421d.gif"
 	},
 	{
 		"name": "Santa Claus",
@@ -8582,8 +8526,8 @@
 		"genres": "",
 		"sources": "Various",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/09/the-santa-clauses-poster-feature.jpg",
+		"dynpic": "https://thumbs.gfycat.com/ImportantAcrobaticAmericancrow-size_restricted.gif"
 	},
 	{
 		"name": "Sarah Connor",
@@ -8593,8 +8537,8 @@
 		"genres": "",
 		"sources": "The Terminator",
 		"universe": "The Terminator",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sarah_Connor_%28Linda_Hamilton%29.jpg/220px-Sarah_Connor_%28Linda_Hamilton%29.jpg",
+		"dynpic": "https://media.tenor.com/hoLSMYDFZwAAAAAC/terminator-sarah-connor.gif"
 	},
 	{
 		"name": "Sarah Manning",
@@ -8604,8 +8548,8 @@
 		"genres": "",
 		"sources": "Orphan Black",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/orphanblack/images/8/81/Esq-orphan-xlg-4497103.jpg",
+		"dynpic": "https://media.tenor.com/wOJjCsIbiWQAAAAd/sarah-manning.gif"
 	},
 	{
 		"name": "Saru",
@@ -8615,19 +8559,19 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "http://cdn.shopify.com/s/files/1/2315/4367/articles/who-is-saru-a-star-trek-discovery-personnel-file-report-644483_1200x1200.jpg",
+		"dynpic": "https://media.tenor.com/MqhpZaz0xcMAAAAC/star-trek-discovery-captain-saru.gif"
 	},
 	{
 		"name": "Saruman",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Maia",
 		"abilities": "",
 		"genres": "",
-		"sources": "Tolkien",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "The Lord of the Rings (Movie Series 2001-2003)",
+		"universe": "Eä",
+		"picture": "https://static.wikia.nocookie.net/lotr/images/0/0c/Christopher_Lee_as_Saruman.jpg",
+		"dynpic": "https://thumbs.gfycat.com/SlipperyZigzagAyeaye-size_restricted.gif"
 	},
 	{
 		"name": "Satan",
@@ -8637,8 +8581,8 @@
 		"genres": "",
 		"sources": "Legend",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://media.tenor.com/o2TwmnP_3eUAAAAC/devil-satan.gif",
+		"dynpic": "https://miro.medium.com/focal/1200/675/35/45/1*GUvvMZgALBs5plZXKKBitA.png"
 	},
 	{
 		"name": "Saul Goodman",
@@ -8648,19 +8592,19 @@
 		"genres": "",
 		"sources": "Breaking Bad",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/3/34/Jimmy_McGill_BCS_S3.png",
+		"dynpic": "https://media3.giphy.com/media/Bs0GXj3ew6xxK/giphy.gif"
 	},
 	{
 		"name": "Sauron",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Maia",
 		"abilities": "",
 		"genres": "",
 		"sources": "Tolkien",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Sauron.jpg/290px-Sauron.jpg",
+		"dynpic": "https://media.tenor.com/ZU-bnOLmeq8AAAAC/sauron.gif"
 	},
 	{
 		"name": "Scar",
@@ -9017,7 +8961,7 @@
 	},
 	{
 		"name": "SkekSil The Chamberlain",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Skeksis",
 		"abilities": "",
 		"genres": "",
@@ -9050,7 +8994,7 @@
 	},
 	{
 		"name": "Smaug",
-		"gender": "m",
+		"gender": "Male",
 		"race": "dragon",
 		"abilities": "",
 		"genres": "",
@@ -9809,7 +9753,7 @@
 	},
 	{
 		"name": "Theoden",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Human",
 		"abilities": "",
 		"genres": "",
@@ -9842,7 +9786,7 @@
 	},
 	{
 		"name": "Thorin II Oakenshield",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Dwarf",
 		"abilities": "",
 		"genres": "",
@@ -9985,7 +9929,7 @@
 	},
 	{
 		"name": "Tom Bombadil",
-		"gender": "m",
+		"gender": "Male",
 		"race": "unknown",
 		"abilities": "",
 		"genres": "",
@@ -10095,7 +10039,7 @@
 	},
 	{
 		"name": "Treebeard",
-		"gender": "m",
+		"gender": "Male",
 		"race": "Ent",
 		"abilities": "",
 		"genres": "",
@@ -10678,7 +10622,7 @@
 		"dynpic": ""
 	},
 	{
-		"name": "Yoda[edit]",
+		"name": "Yoda",
 		"gender": "",
 		"race": "",
 		"abilities": "",
