@@ -11,15 +11,15 @@
     <br />
     <div class="form-check form-switch">
       <label class="form-check-label" for="flexSwitchCheckDefault">Animations</label>
-      <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" [(ngModel)]="displayAnimations">
+      <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" [(ngModel)]="displayAnimationsAlways">
     </div>
 </div>
 <div class="row">
   <div [ngClass]="showMyClass ? 'cardcon' : 'cardswp'" class="col-md-3"
       *ngFor="let charac of party;let i = index;">
     <div id="{{'cardIdx_'+i}}" class="card" (mouseenter) ="mouseEnter($event)"  (mouseleave) ="mouseLeave($event)">
-      <img id="{{'imgStatic_'+i}}" [ngClass]="displayAnimations ? 'staticImg card-img-top d-none' : 'card-img-top'" src="{{ charac.picture }}" alt="Card image" >
-      <img id="{{'imgDynamic_'+i}}" [ngClass]="displayAnimations ? 'card-img-top' : 'card-img-top d-none'" src="{{charac.dynpic}}" >
+      <img id="{{'imgStatic_'+i}}" [ngClass]="displayAnimationsAlways ? 'staticImg card-img-top d-none' : 'card-img-top'" src="{{ charac.picture }}" alt="Card image" >
+      <img id="{{'imgDynamic_'+i}}" [ngClass]="displayAnimationsAlways ? 'card-img-top' : 'card-img-top d-none'" src="{{charac.dynpic}}" >
       <div class="card-body">
         <h4 class="card-title">{{ charac.name }}</h4>
         <p class="card-text">{{ charac.sources }}</p>

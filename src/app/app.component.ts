@@ -7,16 +7,12 @@ import {
 
 interface Person { 
   name : String,
-  type : String,
   gender : String,
   race : String,
-  role : String,
-  specialPowers : String,
+  abilities : String,
   genres : String,
   sources : String,
-  media : String,
-  setting : String,
-  notes : String,
+  universe : String,
   picture : String,
   dynpic : String
 }
@@ -41,14 +37,16 @@ export class AppComponent {
   origPersons: Person[] = data;
   errMessage : String = "";
 
-  party: Person[] = []; //this.origPersons;
+  party: Person[] = [];//this.origPersons;
   sliderValue = 4;
   storedValues: number[] = [];
   partySizeLimit = this.origPersons.length;
 
   showMyClass = true;
 
-  displayAnimations = false;
+  displayAnimationsAlways = false;
+  displayAnimationsOnHover = true;
+  displayAnimationsOnGenerate = true;
 
   timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
 
@@ -57,7 +55,7 @@ export class AppComponent {
     this.party = [];
     this.storedValues = [];
     this.showMyClass = true;
-    this.displayAnimations = true;
+    this.displayAnimationsAlways = true;
     this.startAnimationsWithTimer();
     for (var i=0; i<this.sliderValue; i++) {
       this.assignCharacterToParty(i);
@@ -66,11 +64,11 @@ export class AppComponent {
   }
 
   startPicAnimations() {
-    this.displayAnimations = true;
+    this.displayAnimationsAlways = true;
   }
   startAnimationsWithTimer() {
     clearTimeout(this.timer);
-    this.displayAnimations = true;
+    this.displayAnimationsAlways = true;
     this.timer = setTimeout(() => this.stopPicAnimations(), 5000);
   }
 
@@ -98,21 +96,25 @@ export class AppComponent {
   
   
   stopPicAnimations() {
-    this.displayAnimations = false;
+    this.displayAnimationsAlways = false;
   }
   
   mouseEnter(el: Event) {
-    let element: Element = (el.target as Element);
-    let idx = this.findIdIndex(element);
-    document.getElementById("imgStatic_"+idx)?.classList.add('d-none');
-    document.getElementById('imgDynamic_'+idx)?.classList.remove('d-none');
+    if (this.displayAnimationsOnHover) {
+      let element: Element = (el.target as Element);
+      let idx = this.findIdIndex(element);
+      document.getElementById("imgStatic_"+idx)?.classList.add('d-none');
+      document.getElementById('imgDynamic_'+idx)?.classList.remove('d-none');
+    }
   }
 
   mouseLeave(el: Event) {
-    let element: Element = (el.target as Element);
-    let idx = this.findIdIndex(element);
-    document.getElementById("imgStatic_"+idx)?.classList.remove('d-none');
-    document.getElementById('imgDynamic_'+idx)?.classList.add('d-none');
+    if (this.displayAnimationsOnHover && !this.displayAnimationsAlways) {
+      let element: Element = (el.target as Element);
+      let idx = this.findIdIndex(element);
+      document.getElementById("imgStatic_"+idx)?.classList.remove('d-none');
+      document.getElementById('imgDynamic_'+idx)?.classList.add('d-none');
+    }
   }
 
   private findIdIndex(element: Element) {
