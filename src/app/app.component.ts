@@ -43,10 +43,9 @@ export class AppComponent {
   partySizeLimit = this.origPersons.length;
 
   showMyClass = true;
+  showSettings = false;
 
-  displayAnimationsAlways = false;
-  displayAnimationsOnHover = true;
-  displayAnimationsOnGenerate = true;
+  displayAnimations = "always";
 
   timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
 
@@ -55,22 +54,24 @@ export class AppComponent {
     this.party = [];
     this.storedValues = [];
     this.showMyClass = true;
-    this.displayAnimationsAlways = true;
-    this.startAnimationsWithTimer();
+    this.showSettings = true;
+  
+    //this.startAnimationsWithTimer();
     for (var i=0; i<this.sliderValue; i++) {
       this.assignCharacterToParty(i);
     }
     return this.errMessage;
   }
 
-  startPicAnimations() {
-    this.displayAnimationsAlways = true;
-  }
-  startAnimationsWithTimer() {
-    clearTimeout(this.timer);
-    this.displayAnimationsAlways = true;
-    this.timer = setTimeout(() => this.stopPicAnimations(), 5000);
-  }
+  // startPicAnimations() {
+  //   this.displayAnimationsAlways = true;
+  // }
+
+  // startAnimationsWithTimer() {
+  //   clearTimeout(this.timer);
+  //   this.displayAnimationsAlways = true;
+  //   this.timer = setTimeout(() => this.stopPicAnimations(), 5000);
+  // }
 
   assignCharacterToParty(idx: number) {
     var randNum = Math.floor(Math.random() * this.partySizeLimit-1) + 1;
@@ -95,12 +96,13 @@ export class AppComponent {
   
   
   
-  stopPicAnimations() {
-    this.displayAnimationsAlways = false;
-  }
+  // stopPicAnimations() {
+  //   this.displayAnimationsAlways = false;
+  // }
   
   mouseEnter(el: Event) {
-    if (this.displayAnimationsOnHover) {
+    console.log(this.displayAnimations);
+    if (this.displayAnimations === 'hover') {
       let element: Element = (el.target as Element);
       let idx = this.findIdIndex(element);
       document.getElementById("imgStatic_"+idx)?.classList.add('d-none');
@@ -109,7 +111,7 @@ export class AppComponent {
   }
 
   mouseLeave(el: Event) {
-    if (this.displayAnimationsOnHover && !this.displayAnimationsAlways) {
+    if (this.displayAnimations === 'hover') {
       let element: Element = (el.target as Element);
       let idx = this.findIdIndex(element);
       document.getElementById("imgStatic_"+idx)?.classList.remove('d-none');

@@ -8,16 +8,6 @@
     object-fit: contain;
 }
 
-.staticImg {
-    position:absolute;
-    background: white;
-    
-  }
-  
-  .staticImg:hover {
-    opacity:0;
-  }
-
    .cardswp {
     opacity: 0;
     animation: fade-in  800ms ease forwards;

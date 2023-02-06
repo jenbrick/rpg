@@ -5,21 +5,33 @@
   <div class="range w-25">
     <input type="range" class="form-range" id="ageInputId" value="4" min="1" max="7" [(ngModel)]="sliderValue" #slider="ngModel" oninput="ageOutputId.value = ageInputId.value" >
   </div>
- 
-    <a href="#" class="btn btn-primary" (click)="generateParty()">Generate Party</a>
-    <output [(ngModel)]="sliderValue" value={{errMessage}}></output>
-    <br />
-    <div class="form-check form-switch">
-      <label class="form-check-label" for="flexSwitchCheckDefault">Animations</label>
-      <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" [(ngModel)]="displayAnimationsAlways">
+  <a href="#" class="btn btn-primary" (click)="generateParty()">Generate Party</a>
+  <output [(ngModel)]="sliderValue" value={{errMessage}}></output>
+</div>
+<hr />
+<div *ngIf="showSettings" class="d-flex flex-column justify-content-center align-items-center">
+  <div><b>Animations</b></div> 
+  <div>
+    <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="always" checked [(ngModel)]="displayAnimations">
+      <label class="form-check-label" for="inlineRadio1">Always</label>
     </div>
+    <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="hover" [(ngModel)]="displayAnimations">
+      <label class="form-check-label" for="inlineRadio2">On Hover/Tap</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="never" [(ngModel)]="displayAnimations">
+      <label class="form-check-label" for="inlineRadio3">Never</label>
+    </div>
+  </div>
 </div>
 <div class="row">
   <div [ngClass]="showMyClass ? 'cardcon' : 'cardswp'" class="col-md-3"
       *ngFor="let charac of party;let i = index;">
     <div id="{{'cardIdx_'+i}}" class="card" (mouseenter) ="mouseEnter($event)"  (mouseleave) ="mouseLeave($event)">
-      <img id="{{'imgStatic_'+i}}" [ngClass]="displayAnimationsAlways ? 'staticImg card-img-top d-none' : 'card-img-top'" src="{{ charac.picture }}" alt="Card image" >
-      <img id="{{'imgDynamic_'+i}}" [ngClass]="displayAnimationsAlways ? 'card-img-top' : 'card-img-top d-none'" src="{{charac.dynpic}}" >
+      <img id="{{'imgStatic_'+i}}" [ngClass]="displayAnimations != 'always' ? 'card-img-top' : 'card-img-top d-none'" src="{{ charac.picture }}" alt="Card image" >
+      <img id="{{'imgDynamic_'+i}}" [ngClass]="displayAnimations != 'always' ? 'card-img-top d-none' : 'card-img-top'" src="{{charac.dynpic}}" >
       <div class="card-body">
         <h4 class="card-title">{{ charac.name }}</h4>
         <p class="card-text">{{ charac.sources }}</p>
