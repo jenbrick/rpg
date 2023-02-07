@@ -601,7 +601,7 @@
 		"abilities": "",
 		"genres": "",
 		"sources": "Dumbo (Movie 1941)",
-		"universe": "Disney ",
+		"universe": "Disney",
 		"picture": "https://static.wikia.nocookie.net/disney/images/c/ce/Profile_-_Bambi.png",
 		"dynpic": "https://media2.giphy.com/media/l0MYNTkOzbaY2qnjW/giphy.gif"
 	},
@@ -9792,8 +9792,8 @@
 		"genres": "",
 		"sources": "The Princess and the Frog",
 		"universe": "Disney",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/8/81/Tiana_Disney.png",
+		"dynpic": "https://media.tenor.com/fv579hybxZkAAAAC/tiana-princess.gif"
 	},
 	{
 		"name": "Tigger",
@@ -9803,8 +9803,8 @@
 		"genres": "",
 		"sources": "Winnie the Pooh",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/disneyjuniorpedia/images/d/d9/TNAOWTP_-_Tigger.gif",
+		"dynpic": "https://media.tenor.com/-4zLIH4tyPkAAAAC/tigger-tigger-iceskating.gif"
 	},
 	{
 		"name": "Tika Waylan Majere",
@@ -9814,8 +9814,8 @@
 		"genres": "",
 		"sources": "Dragonlance",
 		"universe": "Dungeons & Dragons",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://darrenbolton40.files.wordpress.com/2017/11/tikaart.jpg",
+		"dynpic": "https://darrenbolton40.files.wordpress.com/2017/11/tikaart.jpg"
 	},
 	{
 		"name": "Timmy Brisby",
@@ -9825,8 +9825,8 @@
 		"genres": "",
 		"sources": "The Secret of Nimh",
 		"universe": "The Secret of Nimh",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/donbluth/images/6/6a/Timothy_Brisby.png",
+		"dynpic": "https://64.media.tumblr.com/tumblr_m341iynoVO1qiy0obo1_r3_500.gif"
 	},
 	{
 		"name": "Timon",
@@ -9834,10 +9834,10 @@
 		"race": "",
 		"abilities": "",
 		"genres": "",
-		"sources": "",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"sources": "The Lion King",
+		"universe": "Disney",
+		"picture": "https://static.wikia.nocookie.net/fanfictiondisney/images/e/e8/Timon.png",
+		"dynpic": "https://media.tenor.com/6AuLSSv74DgAAAAC/the-lion-king-timon.gif"
 	},
 	{
 		"name": "Tin Man",
@@ -9847,8 +9847,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/p__/images/5/55/5e8f44f901553.png",
+		"dynpic": "https://i.pinimg.com/originals/43/3f/af/433faf2b0509f9a317c9af3cc9676c1b.gif"
 	},
 	{
 		"name": "Tina Belcher",
@@ -9858,8 +9858,8 @@
 		"genres": "",
 		"sources": "Bob's Burgers",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/bobsburgerpedia/images/4/45/Tinanormal.PNG",
+		"dynpic": "https://i.pinimg.com/originals/9e/17/00/9e1700b8191f2da4ffc25543569bcd4b.gif"
 	},
 	{
 		"name": "Tinker Bell",
@@ -9869,30 +9869,8 @@
 		"genres": "",
 		"sources": "Peter Pan",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "Tithian",
-		"gender": "",
-		"race": "",
-		"abilities": "",
-		"genres": "",
-		"sources": "The Prism Pentad",
-		"universe": "Dungeons & Dragons - Darksun",
-		"picture": "",
-		"dynpic": ""
-	},
-	{
-		"name": "Tom Bombadil",
-		"gender": "Male",
-		"race": "unknown",
-		"abilities": "",
-		"genres": "",
-		"sources": "Tolkien",
-		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/disney/images/2/2c/Tinker_Bell_Render.png",
+		"dynpic": "https://i.pinimg.com/originals/78/3a/4e/783a4e2f3de631f255d002ffbab162f5.gif"
 	},
 	{
 		"name": "Tom Sawyer",
@@ -9902,8 +9880,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://images.static-bluray.com/reviews/17793_1.jpg",
+		"dynpic": "https://i.makeagif.com/media/4-05-2020/QBW8RO.gif"
 	},
 	{
 		"name": "Tommy DeVito",
@@ -9913,8 +9891,8 @@
 		"genres": "",
 		"sources": "Goodfellas",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://media.gq.com/photos/5dcd9ef7c3636800085b0f12/3:2/w_1223,h_815,c_limit/01-joe-pesci-loyal-to-spearpoint-collar-style-gq-november-2019.jpg",
+		"dynpic": "https://media.tenor.com/SEwDVjIR1_0AAAAC/tommy-devito-joe-pesci.gif"
 	},
 	{
 		"name": "Tony Montana",
@@ -9924,8 +9902,8 @@
 		"genres": "",
 		"sources": "Scarface (1983)",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2013/8/28/1377708539760/Scarface---Al-Pacino--008.jpg",
+		"dynpic": "https://media0.giphy.com/media/DpePINkUUotX2/giphy.gif"
 	},
 	{
 		"name": "Tony Soprano",
@@ -9935,8 +9913,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/2/2e/Tony_Soprano_2.jpg",
+		"dynpic": "https://media.tenor.com/mdQK3dsC7L8AAAAC/the-sopranos-tony-soprano.gif"
 	},
 	{
 		"name": "Tony Stark (Iron Man)",
@@ -9957,8 +9935,8 @@
 		"genres": "",
 		"sources": "",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://d17mj1ha1c2g57.cloudfront.net/v1/nYAUVkcA4_Z4xQnZYMScZ5JpZNc/1200x600%23/80/shotsmag/production/media/uploads/ooyala/12Zzl0cTpbjTdvXk7-G4UWr9XKzILAUJDLOokYc8UKM-fB9H4xMDoxOm9rO_dJkD.jpg",
+		"dynpic": "https://thumbs.gfycat.com/WateryNegativeHoiho-max-1mb.gif"
 	},
 	{
 		"name": "Toothless",
@@ -9968,8 +9946,8 @@
 		"genres": "",
 		"sources": "How to Train your Dragon",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://i.pinimg.com/originals/d7/67/e5/d767e5cb6e86ec741149cb373b0e16d8.jpg",
+		"dynpic": "https://thumbs.gfycat.com/DirtyUnitedAsianporcupine-max-1mb.gif"
 	},
 	{
 		"name": "Tracy Jordan",
@@ -9979,8 +9957,8 @@
 		"genres": "",
 		"sources": "30 Rock",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://upload.wikimedia.org/wikipedia/en/5/58/Tracy_jordan.jpg",
+		"dynpic": "https://media.tenor.com/Rgf1ZA1MOYEAAAAC/yes-tracy-jordan.gif"
 	},
 	{
 		"name": "Travis Bickle",
@@ -9990,8 +9968,8 @@
 		"genres": "",
 		"sources": "Taxi Driver (1976)",
 		"universe": "",
-		"picture": "",
-		"dynpic": ""
+		"picture": "https://static.wikia.nocookie.net/greatcinema/images/3/3f/06391921-ED2E-4EB3-A236-E13799E07E29.jpeg",
+		"dynpic": "https://media.tenor.com/8OfcsDQYPhUAAAAC/clap-travis-bickle.gif"
 	},
 	{
 		"name": "Treebeard",
