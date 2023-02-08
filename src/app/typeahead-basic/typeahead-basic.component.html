@@ -1,0 +1,8 @@
+<ng-template #rt let-r="result" let-t="term">
+    {{ r.name}}
+  </ng-template>
+<label for="typeahead-basic">Search:</label>
+<input id="typeahead-basic" type="text" class="form-control" [(ngModel)]="model" [ngbTypeahead]="search"   
+[inputFormatter]="formatter"
+[resultTemplate]="rt"/>
+<button class="btn btn-outline-success my-2 my-sm-0" type="submit" (click)="replaceCharacter(model)">Replace</button>

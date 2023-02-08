@@ -26,6 +26,7 @@
     </div>
   </div>
 </div>
+
 <div class="row">
   <div [ngClass]="showMyClass ? 'cardcon' : 'cardswp'" class="col-md-3"
       *ngFor="let charac of party;let i = index;">
@@ -35,8 +36,13 @@
       <div class="card-body">
         <h4 class="card-title">{{ charac.name }}</h4>
         <p class="card-text">{{ charac.sources }}</p>
+     <!--   <button class="btn btn-primary" (click)="openModal(i)">Search</button> -->
         <a href="#" class="btn btn-primary" (click)="swapCharacter(charac.name)">Swap</a>
+        <div class="row">
+          <app-typeahead-basic></app-typeahead-basic>
+        </div>
       </div>
     </div>
   </div>
 </div>
+

@@ -1,6 +1,8 @@
 //ng build --output-path docs --base-href /rpg/
 import { Component } from '@angular/core';
 import data from '../assets/json/characters.json';
+import { ModalComponent } from './modal/modal.component';
+import { MdbModalRef, MdbModalService } from 'mdb-angular-ui-kit/modal';
 import {
   trigger, state, style, animate, transition, query, group
  } from '@angular/animations';
@@ -32,6 +34,13 @@ interface Person {
   ]
 })
 export class AppComponent {
+  modalRef: MdbModalRef<ModalComponent> | null = null;
+
+  constructor(private modalService: MdbModalService) {}
+
+  openModal(idx : number) {
+    this.modalRef = this.modalService.open(ModalComponent)
+  }
 
   title = 'rpg';
   origPersons: Person[] = data;
@@ -49,6 +58,14 @@ export class AppComponent {
 
   timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
 
+  getCountryByCode(name: String) {
+    return data.filter(
+        function(data){ return data.name == name }
+    );
+
+  }
+  
+  
    
   generateParty() {
     this.party = [];
@@ -73,6 +90,8 @@ export class AppComponent {
   //   this.timer = setTimeout(() => this.stopPicAnimations(), 5000);
   // }
 
+
+
   assignCharacterToParty(idx: number) {
     var randNum = Math.floor(Math.random() * this.partySizeLimit-1) + 1;
     console.log(this.storedValues.length);
@@ -95,7 +114,11 @@ export class AppComponent {
   }
   
   
-  
+  getCharacterByName(name: String) {
+    return data.filter(
+        function(data){ return data.name === name}
+    );
+  }
   // stopPicAnimations() {
   //   this.displayAnimationsAlways = false;
   // }
