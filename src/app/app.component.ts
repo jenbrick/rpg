@@ -59,6 +59,7 @@ export class AppComponent {
   timer : ReturnType<typeof setTimeout> = setTimeout(() => { });
 
   getCountryByCode(name: String) {
+    console.log('fixit');
     return data.filter(
         function(data){ return data.name == name }
     );
