@@ -39,7 +39,7 @@
      <!--   <button class="btn btn-primary" (click)="openModal(i)">Search</button> -->
         <a href="#" class="btn btn-primary" (click)="swapCharacter(charac.name)">Swap</a>
         <div class="row">
-          <app-typeahead-basic></app-typeahead-basic>
+          <app-typeahead-basic [index]="i"></app-typeahead-basic>
         </div>
       </div>
     </div>
